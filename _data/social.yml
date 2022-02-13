@@ -199,6 +199,10 @@ paypal:
   name: PayPal
   icon: icon-paypal
   prepend: "https://www.paypal.me/"
+orcid:
+  name: Orcid ID
+  icon: icon-link
+  prepend: "https://orcid.org/0000-0002-5487-9239"  
 keybase:
   name: Keybase
   icon: icon-key
