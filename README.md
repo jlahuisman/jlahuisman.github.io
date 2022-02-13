@@ -1,6 +1,6 @@
 # Hydejack Starter Kit
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/). test
 
 ## Quick Start
 ### Running locally
