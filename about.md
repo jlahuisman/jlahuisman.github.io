@@ -1,12 +1,8 @@
 ---
 layout: about
+title: About
 image: /assets/img/profilepic.jpg
-hide_description: true
-redirect_from:
-  - /download/
 ---
-
-# About
 
 <!--author-->
 
