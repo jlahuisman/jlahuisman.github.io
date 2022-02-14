@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/profilepic.jpg
+image: /assets/img/profilepic.JPG
 hide_description: true
 redirect_from:
   - /download/
