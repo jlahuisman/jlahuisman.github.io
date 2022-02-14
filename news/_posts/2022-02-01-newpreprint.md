@@ -7,4 +7,12 @@ sitemap: false
 hide_last_modified: true
 ---
 
-Very happy to finally be able to share this, and I hope it will be useful for others studying iconicity in the spoken or the visual modality. 
+Find it [here](https://osf.io/rpf6d/)!
+
+Very happy to finally be able to share this.
+
+Hope it will be useful for others studying iconicity, not only in the spoken modality but also in the visual one, as our new python package for making rating and guessing experiments, [`icotools`](https://github.com/BonnieMcLean/IcoTools) supports videos and images as well as sound files!
+
+See abstract below:
+
+Iconicity in language is receiving increased attention from many fields, but our understanding of the roles of iconicity in language is only as good as the measures we use to quantify it. We conducted iconicity rating and guessing experiments with 304 Japanese ideophones and prosaic words with sensory meanings, e.g. *fuwafuwa* ‘fluffy’, *jawarakai* ‘soft’. For both word groups, ratings and guesses were positively correlated—suggesting the two measures pick up on the same associations. Ideophones were consistently associated with higher iconicity ratings, but not higher guessing accuracy. We suggest that the structural markedness of ideophones enhances their perceived iconicity in the rating task, but does not provide any advantage (over and above form-meaning associations) in the guessing task. Thus, guesses and ratings could be used together to tease apart the relative contribution of structural markedness to iconic effects. Some ideophones were also poorly guessed, highlighting that construals of iconicity can be language-specific. Finally, we present some methodological contributions, including a new guessing paradigm that improves on the robustness, sensitivity and discriminability of previous approaches, and a reproducible workflow for creating rating and guessing experiments with a Python package, icotools, which we hope will improve comparability between future studies.
