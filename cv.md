@@ -5,7 +5,7 @@ Education
 :   **PhD, Linguistics**<br>Uppsala University (Sweden)
 
 
-2018-2019
+2018 - 2019
 :   **Honours Degree in Language Studies**<br>Australian National University
     <br>*Thesis Title*: One form, many meanings: iconicity in phonological and semantic development
 
