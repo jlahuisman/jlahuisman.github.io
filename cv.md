@@ -2,7 +2,7 @@ Education
 ---------
 
 2020 - present
-:   **PhD, Linguistics**<br>Uppsala University (Sweden)
+:   **PhD, Linguistics**<br>Uppsala University
 
 
 2018 - 2019
