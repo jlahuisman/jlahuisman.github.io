@@ -2,22 +2,19 @@ Education
 ---------
 
 2020 - present
-:   **PhD, Linguistics**; Uppsala University (Sweden)
+:   **PhD, Linguistics**<br>Uppsala University (Sweden)
 
 
 2018-2019
-:   **Honours Degree in Language Studies**; Australian National University
-    
-    *Thesis Title: One form, many meanings: iconicity in phonological and semantic development*
+:   **Honours Degree in Language Studies**<br>Australian National University
+    <br>*Thesis Title*: One form, many meanings: iconicity in phonological and semantic development
 
 2017
-:   **International Students Exchange Program**; Tokyo University of Foreign Studies
-   
-    *Major: Japanese*
-    *Minors: Okinawan, Japanese linguistics*
+:   **International Students Exchange Program**<br>Tokyo University of Foreign Studies
+    <br>*Majors*: Japanese<br>
+    *Minors*: Okinawan, Japanese linguistics
 
 2014 - 2016
-:   **Bachelor of Philosophy (PhB)**; Australian National University
-    
-    *Majors*: Linguistics, Japanese
+:   **Bachelor of Philosophy (PhB)**<br>Australian National University
+    <br>*Majors*: Linguistics, Japanese<br>
     *Minors*: Japanese Linguistics
