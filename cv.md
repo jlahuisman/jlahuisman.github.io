@@ -36,7 +36,7 @@ Java <span class="icon-star-full" aria-hidden="true">
 
 ## Contact
 
-<span class="icon-location" aria-hidden="true"></span> Room 9-2032, Engelska Parken, Uppsala<br><span class="icon-envelop" aria-hidden="true"></span> Box 635, 751 26 Uppsala<br><span class="icon-mail" aria-hidden="true"></span> bonnie.mclean@lingfil.uu.se
+<span class="icon-mail" aria-hidden="true"></span> bonnie.mclean@lingfil.uu.se<br><span class="icon-location" aria-hidden="true"></span> Room 9-2032, Engelska Parken, Uppsala<br><span class="icon-envelop" aria-hidden="true"></span> Box 635, 751 26 Uppsala
 
 
 

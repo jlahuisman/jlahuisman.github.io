@@ -21,4 +21,8 @@
 
 1. McLean, B. (2019). *One form, many meanings: Iconicity in phonological and semantic development*. [Honours thesis, Australian National University](https://doi.org/10.25911/5dd659ead7a5e)
 
-   
+
+## Packages
+
+1. McLean, B. Icotools. *Python Package Index*. Available at: [https://pypi.org/project/icotools/](https://pypi.org/project/icotools/)
+

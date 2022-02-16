@@ -11,7 +11,7 @@ Find it [here](https://osf.io/rpf6d/)!
 
 Very happy to finally be able to share this.
 
-Hope it will be useful for others studying iconicity, not only in the spoken modality but also in the visual one, as our new python package for making rating and guessing experiments, [`icotools`](https://github.com/BonnieMcLean/IcoTools) supports videos and images as well as sound files!
+Hope it will be useful for others studying iconicity, not only in the spoken modality but also in the visual one. Our new python package for making rating and guessing experiments, [`icotools`](https://github.com/BonnieMcLean/IcoTools) supports videos and images as well as sound files :)
 
 ### Abstract
 
