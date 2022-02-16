@@ -1,5 +1,3 @@
-# Curriculum Vitae
-
 ## Education <span class="icon-googlescholar" aria-hidden="true"></span>
 
 | <span style="font-weight:normal">2020 – present</span> | <span style="font-weight:normal; text-align:left">**PhD in Linguistics**<br/>Uppsala University</span> |
