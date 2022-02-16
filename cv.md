@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-|                | <font size=5><span class="icon-googlescholar" aria-hidden="true"></span> Education </font> |
+|                | <font size=5>Education <span class="icon-googlescholar" aria-hidden="true"></span></font> |
 | -------------- | ------------------------------------------------------------ |
 | 2020 – present | **PhD in Linguistics**<br>Uppsala University                 |
 | 2018 –  2019   | **Honours Degree in Language Studies**<br>Australian National University<br><span class="icon-award" aria-hidden="true"></span>University Medal<br><font size=2> <i>Thesis</i>: One form, many meanings: Iconicity in phonological and semantic development</font> |
