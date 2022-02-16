@@ -7,3 +7,4 @@
 | 2017                                                         | **International Students Exchange Program**<br>Tokyo University of Foreign Studies<br><font size=2><i>Majors</i>: Japanese<br/><i>Minors</i>: Okinawan, Japanese linguistics</font> |
 | 2014 – 2016                                                  | **Bachelor of Philosophy (PhB)**<br>Australian National University<br><font size=2><i>Majors</i>: Linguistics, Japanese<br><i>Minors</i>: Japanese linguistics</font> |
 
+
