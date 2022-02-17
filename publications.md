@@ -24,7 +24,7 @@
 
 ## Packages
 
-1. McLean, B. Icotools. *Python Package Index*. Available at: [https://pypi.org/project/icotools/](https://pypi.org/project/icotools/)
+1. McLean, B. `Icotools`. *Python Package Index*. Available at: [https://pypi.org/project/icotools/](https://pypi.org/project/icotools/)
 
 ## Datasets
 
