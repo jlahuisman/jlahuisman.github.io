@@ -6,7 +6,7 @@
 
 ## Journals
 
-1. McLean, B. (2021). Revising an implicational hierarchy for the meanings of ideophones, with special reference to Japonic. [*Linguistic Typology*](https://doi.org/10.1515/lingty-2020-2063), *25*(3), 507–549. <span class="icon-flickr2" aria-hidden="true"></span> [**App**](https://bonnie-mclean.shinyapps.io/ideophonesacrossjapan-eng/)
+1. McLean, B. (2021). Revising an implicational hierarchy for the meanings of ideophones, with special reference to Japonic. [*Linguistic Typology*](https://doi.org/10.1515/lingty-2020-2063), *25*(3), 507–549. ✨ [**Shiny App**](https://bonnie-mclean.shinyapps.io/ideophonesacrossjapan-eng/)
 1. Smith, H. A., Giacon, J., & McLean, B. (2017). A community development approach using free online tools for language revival in Australia. [*Journal of Multilingual and Multicultural Development*](https://doi.org/10.1080/01434632.2017.1393429), 1–20.
 
 ## Book Chapters
