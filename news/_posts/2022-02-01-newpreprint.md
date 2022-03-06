@@ -7,11 +7,9 @@ sitemap: false
 hide_last_modified: true
 ---
 
-Find it [here](https://osf.io/rpf6d/)!
+[Link to preprint](https://osf.io/rpf6d/)!
 
-Very happy to finally be able to share this.
-
-Hope it will be useful for others studying iconicity, not only in the spoken modality but also in the visual one. Our new python package for making rating and guessing experiments, [`icotools`](https://github.com/BonnieMcLean/IcoTools) supports videos and images as well as sound files :)
+Very happy to finally be able to share this, be sure as well to check out the associated python package, [`icotools`](https://github.com/BonnieMcLean/IcoTools), which can be used to make rating and guessing experiments for audio, video, or images! :grinning:
 
 ### Abstract
 
