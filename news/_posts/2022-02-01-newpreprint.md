@@ -9,7 +9,7 @@ hide_last_modified: true
 
 [Link to preprint](https://osf.io/rpf6d/)!
 
-Very happy to finally be able to share this, be sure as well to check out the associated python package, [`icotools`](https://github.com/BonnieMcLean/IcoTools), which can be used to make rating and guessing experiments for audio, video, or images! :grinning: :sparkles:
+Very happy to finally be able to share this, be sure as well to check out the associated python package, [`icotools`](https://github.com/BonnieMcLean/IcoTools), which can be used to make rating and guessing experiments for audio, video, or images! 😀✨
 
 ### Abstract
 
