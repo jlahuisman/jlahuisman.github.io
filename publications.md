@@ -2,7 +2,7 @@
 
 ## Preprints
 
-1. McLean, B., Dunn, M., & Dingemanse, M. (2022). Two measures are better than one: Combining iconicity ratings and guessing experiments for a more nuanced picture of iconicity in the lexicon. [*OSF Preprints*](https://osf.io/rpf6d/).  <span class="icon-award" aria-hidden="true"></span> **Best PhD paper at SLE 2021**
+1. McLean, B., Dunn, M., & Dingemanse, M. (2022). Two measures are better than one: Combining iconicity ratings and guessing experiments for a more nuanced picture of iconicity in the lexicon. [*OSF Preprints*](https://osf.io/rpf6d/).  <span class="icon-award" aria-hidden="true"></span> **Best PhD paper at SLE 2021** 📄 [Paper](https://osf.io/rpf6d/download) 📊 [Slides](https://osf.io/y3a2u/download)
 
 ## Journals
 
