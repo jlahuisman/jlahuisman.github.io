@@ -17,7 +17,7 @@ You can find (and cite) it below:
 
 Summary of the best bits/main takeways below 👇👇👇
 
-### Summary of the paper
+### The basic idea
 
 It's a common misconception that iconicity or sound symbolism is universal, perpetuated in part by the almost universal success of famous experiments involving pseudowords like *bouba* and *kiki*. But iconicity in natural languages is much more messy than paradigms like *bouba*-*kiki* suggest (see related discussion [here](https://ideophone.org/what-sound-symbolism-can-and-cannot-do-new-paper-in-language/)).
 
@@ -30,7 +30,7 @@ Which begs the question, what do we *really* measure when we measure iconicity? 
 
 What we find is that while the defining feature of iconic signs is that they involve a sense of resemblance, measures of iconicity rarely measure resemblance alone. We argue that this is not a problem–the other things being measured are very interesting and likely part and parcel of many iconic effects!–but it is something researchers should be aware of when operationalising iconicity in scientific investigations. To capture these other processes, and tease them apart in analyses, we suggest a *synthesis* of different measures focused on different aspects of iconicity, and introduce a new python package, [Icotools](https://github.com/BonnieMcLean/IcoTools), designed to make collecting multiple iconicity measures in tandem easier. 
 
-### Our study
+### The study
 
 We collected iconicity ratings and guessing accuracies for 304 Japanese words, from English-speaking participants. The words included a mix of *ideophones* (structurally marked depictive words, e.g. *fuwafuwa* 'fluffy') and prosaic words from similar semantic domains (e.g. *jawarakai*, an adjective meaning ‘soft’). Our original motivation for collecting both types of measures was as a robustness check; what if the participants in the rating task misunderstood our instructions, and were rating the words on something other than iconicity? What if our foils in the guessing task were producing strange effects? We figured that where the two independent measures agreed, we could be fairly certain that the *construct validity* of each was okay. 
 
