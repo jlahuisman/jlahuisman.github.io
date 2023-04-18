@@ -21,6 +21,11 @@ Uppsala University <span class="icon-library" aria-hidden="true"></span><br>Depa
 * [*New Colombo Plan Scholarship*](https://www.dfat.gov.au/people-to-people/new-colombo-plan/about) (Australian Department of Foreign Affairs and Trade)
 * *Reginald de Bray Prize for Linguistics* (Australian National University)
 
+## Teaching <span class="icon-briefcase"></span>
+  
+* Språk, kultur, och tanke (Language, Culture, Thought), Spring 2023, Uppsala University
+* Lingvistisk forskning och forskningsmetoder (Linguistic research and research methods), Spring 2021, Uppsala University
+
 ## Languages <span class="icon-bubbles" aria-hidden="true"></span>
 
 Swedish <span class="icon-star-full"><span class="icon-star-full"><span class="icon-star-empty"></span><span class="icon-star-empty"></span><span class="icon-star-empty"></span>
@@ -37,13 +42,7 @@ R <span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-
 
 Python <span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span>
 
-Java <span class="icon-star-full" aria-hidden="true"><span class="icon-star-empty"><span class="icon-star-empty">
-
-## Teaching <span class="icon-briefcase"></span>
-  
-* Språk, kultur, och tanke (Language, Culture, Thought), Spring 2023, Uppsala University
-* Lingvistisk forskning och forskningsmetoder (Linguistic research and research methods), Spring 2021, Uppsala University
-  
+Java <span class="icon-star-full" aria-hidden="true"><span class="icon-star-empty"><span class="icon-star-empty">  
   
 ## Contact
 
