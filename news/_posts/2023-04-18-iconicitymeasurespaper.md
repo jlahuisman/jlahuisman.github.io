@@ -2,7 +2,7 @@
 
 > McLean, B., Dunn, M., & Dingemanse, M. (2023). [Two measures are better than one: Combining iconicity ratings and guessing experiments for a more nuanced picture of iconicity in the lexicon](https://doi.org/10.1017/langcog.2023.9). *Language and Cognition,* 1-24. doi:10.1017/langcog.2023.9
 
-It's a common misconception that iconicity or sound symbolism is universal, perpetuated in part by the almost universal success of famous experiments involving pseudowords like *bouba* and *kiki*. But iconicity in natural languages is much more messy than paradigms like *bouba*-*kiki* suggest (see also an earlier blog post [here](https://ideophone.org/what-sound-symbolism-can-and-cannot-do-new-paper-in-language/)).
+It's a common misconception that iconicity or sound symbolism is universal, perpetuated in part by the almost universal success of famous experiments involving pseudowords like *bouba* and *kiki*. But iconicity in natural languages is much more messy than paradigms like *bouba*-*kiki* suggest (see also [here](https://ideophone.org/what-sound-symbolism-can-and-cannot-do-new-paper-in-language/)).
 
 The idea that there is a single, universal iconic 'language' to which we are all attuned is as illusory as the idea that we can all look at an illustration and see the same thing. Iconic words in languages are like [rabbit-ducks](https://en.wikipedia.org/wiki/Rabbit%E2%80%93duck_illusion); what you see depends on who you are and how you're looking.
 
