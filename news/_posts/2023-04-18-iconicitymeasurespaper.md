@@ -14,7 +14,7 @@ You can find (and cite) it below:
 
 Summary of the best bits/main takeways below 👇👇👇
 
-## Summary of the paper
+### Summary of the paper
 
 It's a common misconception that iconicity or sound symbolism is universal, perpetuated in part by the almost universal success of famous experiments involving pseudowords like *bouba* and *kiki*. But iconicity in natural languages is much more messy than paradigms like *bouba*-*kiki* suggest (see also [here](https://ideophone.org/what-sound-symbolism-can-and-cannot-do-new-paper-in-language/)).
 
@@ -27,13 +27,13 @@ Which begs the question, what do we *really* measure when we measure iconicity? 
 
 What we find is that while the defining feature of iconic signs is that they involve a sense of resemblance, measures of iconicity rarely measure resemblance alone. We argue that this is not a problem–the other things being measured are very interesting and likely part and parcel of many iconic effects!–but it is something researchers should be aware of when operationalising iconicity in scientific investigations. To capture these other processes, and tease them apart in analyses, we suggest a *synthesis* of different measures focused on different aspects of iconicity, and introduce a new python package, [Icotools](https://github.com/BonnieMcLean/IcoTools), designed to make collecting multiple iconicity measures in tandem easier. 
 
-## Our study
+### Our study
 
 We collected iconicity ratings and guessing accuracies for 304 Japanese words, from English-speaking participants. The words included a mix of *ideophones* (structurally marked depictive words, e.g. *fuwafuwa* 'fluffy') and prosaic words from similar semantic domains (e.g. *jawarakai*; an adjective meaning ‘soft’). Our original motivation for collecting both types of measures was as a robustness check; what if the participants in the rating task misunderstood our instructions, and were rating the words on something other than iconicity? What if our foils in the guessing task were producing strange effects? We figured that where the two independent measures agreed, we could be fairly certain that the *construct validity* of each was okay. 
 
 And indeed, we found that the two measures *did* agree, supporting the validity of quantitative, behavioural measures of iconicity (yay! – see also this relevant [opinion piece](https://doi.org/10.1515/lingvan-2020-0135) by Bodo Winter and Marcus Perlman). But we found a bunch of other interesting stuff too (summarised below).
 
-## Interesting findings
+### Interesting findings
 
 1. Ideophones were consistently rated higher in iconicity than prosaic words, even when guessed at the same accuracies
 
@@ -48,7 +48,7 @@ And indeed, we found that the two measures *did* agree, supporting the validity 
 
    <img src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230407160029564-0660:S1866980823000091:S1866980823000091_fig7.png" alt="The right plot shows guessing accuracies for ideophones and prosaic words. Both ideophones and prosaic words are guessed above chance, though more ideophones are guessed above chance than prosaic words, and also more ideophones are guessed *below* chance than prosaic words." style="zoom:30%;" />
 
-## Our interpretation
+### Our interpretation
 
 The English raters were more sure about the iconicity of Japanese ideophones, and more confident in guessing their meanings–even when they were wrong! We think this is because, unlike prosaic words, the ideophones in the data were all *structurally marked*, primarily through reduplication (see also [Dingemanse & Thompson 2020](https://doi.org/10.1017/langcog.2019.49)). 
 
@@ -72,11 +72,11 @@ Meanwhile, Japanese already has an ideophone *sarasara* which means 'smooth', an
 
 *Tsuba-ga **daradara** moreta* "Drool dribbled out *daradara*"
 
-## Conclusions
+### Conclusions
 
 In sum, we found that there is much more to iconicity than just resemblance. Iconic signs also utilise *systematic* depictive conventions, they rely on *structural markedness* to let people know that they should be interpreted as depictions (see Dingemanse 2019), and they build on world knowledge that can be culturally specific as well as broadly shared. 
 
-## Methodological contributions
+### Methodological contributions
 
 As mentioned, we made a python package, [Icotools](https://github.com/BonnieMcLean/IcoTools), that provides a reproducible workflow for generating rating and guessing tasks from a single wordlist, with support for a variety of stimulus formats (audio, video, text, and images).
 
@@ -95,7 +95,7 @@ When comparing the different measures, we find that:
 
 All-in-all, we think that a synthesis of different measures offers more than single shot approaches. As an illustration, iconicity ratings from native speakers can tell us which mappings are meaningful to them, while comparisons with guessability for non-speakers allow us to establish the relative contribution of (specific linguistic and cultural) experiences to the meaningfulness of these mappings. Since ratings are more sensitive than guesses to the presentation of a word as iconic through cues like structural markedness, comparing the predictive strength of the two measures could allow researchers to investigate the degree to which processes like framing or staging are involved in iconic effects, versus whether the presence of form-meaning resemblances alone is enough. And correlating iconicity ratings with guessing accuracies makes the ratings themselves more interpretable, offering a principled way to determine what constitutes a 'low' or 'high' rating.
 
-# References
+### References
 
 Akita, K. (2021). A typology of depiction marking: The prosody of Japanese ideophones and beyond. *Studies in Language*, *45*(4), 865–886.
 
