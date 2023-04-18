@@ -19,7 +19,7 @@ Summary of the best bits/main takeways below 👇👇👇
 
 ### Summary of the paper
 
-It's a common misconception that iconicity or sound symbolism is universal, perpetuated in part by the almost universal success of famous experiments involving pseudowords like *bouba* and *kiki*. But iconicity in natural languages is much more messy than paradigms like *bouba*-*kiki* suggest (see also [here](https://ideophone.org/what-sound-symbolism-can-and-cannot-do-new-paper-in-language/)).
+It's a common misconception that iconicity or sound symbolism is universal, perpetuated in part by the almost universal success of famous experiments involving pseudowords like *bouba* and *kiki*. But iconicity in natural languages is much more messy than paradigms like *bouba*-*kiki* suggest (see related discussion [here](https://ideophone.org/what-sound-symbolism-can-and-cannot-do-new-paper-in-language/)).
 
 The idea that there is a single, universal iconic 'language' to which we are all attuned is as illusory as the idea that we can all look at an illustration and see the same thing. Iconic words in languages are like [rabbit-ducks](https://en.wikipedia.org/wiki/Rabbit%E2%80%93duck_illusion); what you see depends on who you are and how you're looking.
 
