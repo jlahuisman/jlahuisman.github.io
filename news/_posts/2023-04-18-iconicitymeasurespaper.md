@@ -23,7 +23,7 @@ It's a common misconception that iconicity or sound symbolism is universal, perp
 
 The idea that there is a single, universal iconic 'language' to which we are all attuned is as illusory as the idea that we can all look at an illustration and see the same thing. Iconic words in languages are like [rabbit-ducks](https://en.wikipedia.org/wiki/Rabbit%E2%80%93duck_illusion); what you see depends on who you are and how you're looking.
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Duck-Rabbit_illusion.jpg?20060329021754" alt="Famous duck-rabbit illustration, which looks both like a rabbit and like a duck simultaneously"></p><p align="center">Rabbit and Duck. Taken from the 23rd October 1982 issue of *Fliegande Blätter*. Author unknown.</p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Duck-Rabbit.png/1200px-Duck-Rabbit.png?20090219171009" alt="Famous duck-rabbit illustration, which looks both like a rabbit and like a duck simultaneously" style="zoom:30%;"></p><p align="center">Rabbit and Duck. Taken from the 23rd October 1982 issue of *Fliegande Blätter*. Author unknown.</p>
 <p></p>
    
 Which begs the question, what do we *really* measure when we measure iconicity? This is what our new paper investigates. 
