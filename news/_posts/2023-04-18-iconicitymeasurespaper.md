@@ -15,7 +15,7 @@ You can find (and cite) it below:
 
 <!--more-->
 
-Summary of the best bits/main takeways below 👇👇👇
+Summary of the best bits/main takeways below 👇
 
 ### The basic idea
 
