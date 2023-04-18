@@ -17,7 +17,7 @@ The idea that there is a single, universal iconic 'language' to which we are all
    
 Which begs the question, what do we *really* measure when we measure iconicity? This is what our new paper investigates. 
 
-What we find is that while the defining feature of iconic signs if that they involve a sense of resemblance, measures of iconicity rarely measure resemblance alone. We argue that this is not a problem–the other things being measured are very interesting and likely part and parcel of many iconic effects!–but it is something researchers should be aware of when operationalising iconicity in scientific investigations. To capture these other processes, and tease them apart in analyses, we suggest a *synthesis* of different measures focused on different aspects of iconicity, and introduce a new python package, [Icotools](https://github.com/BonnieMcLean/IcoTools), designed to make collecting multiple iconicity measures in tandem easier. 
+What we find is that while the defining feature of iconic signs is that they involve a sense of resemblance, measures of iconicity rarely measure resemblance alone. We argue that this is not a problem–the other things being measured are very interesting and likely part and parcel of many iconic effects!–but it is something researchers should be aware of when operationalising iconicity in scientific investigations. To capture these other processes, and tease them apart in analyses, we suggest a *synthesis* of different measures focused on different aspects of iconicity, and introduce a new python package, [Icotools](https://github.com/BonnieMcLean/IcoTools), designed to make collecting multiple iconicity measures in tandem easier. 
 
 ## Our study
 
