@@ -81,9 +81,9 @@ In sum, we found that there is much more to iconicity than just resemblance. Ico
 
 ### Methodological contributions
 
-As mentioned, we made a python package, [Icotools](https://github.com/BonnieMcLean/IcoTools), that provides a reproducible workflow for generating rating and guessing tasks from a single wordlist, with support for a variety of stimulus formats (audio, video, text, and images).
+As mentioned, we also made a python package, [Icotools](https://github.com/BonnieMcLean/IcoTools), that provides a reproducible workflow for generating rating and guessing tasks from a single wordlist, with support for a variety of stimulus formats (audio, video, text, and images).
 
-We also made some improvements particularly to the design of the guessing task, to allow for more robust, sensitive, and discriminating measures of iconicity. 
+We made some improvements particularly to the design of the guessing task, to allow for more robust, sensitive, and discriminating measures of iconicity. 
 
 These are summarised as follows:
 
