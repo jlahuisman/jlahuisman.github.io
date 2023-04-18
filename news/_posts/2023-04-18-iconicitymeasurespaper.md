@@ -4,9 +4,9 @@ The first paper from my thesis is now out in Language & Cognition!🎉 You can f
 
 > McLean, B., Dunn, M., & Dingemanse, M. (2023). [Two measures are better than one: Combining iconicity ratings and guessing experiments for a more nuanced picture of iconicity in the lexicon](https://doi.org/10.1017/langcog.2023.9). *Language and Cognition,* 1-24. doi:10.1017/langcog.2023.9
 
-Summary of the best bits/main takeways from the paper below 👇👇👇
+Summary of the best bits/main takeways below 👇👇👇
 
-
+## Summary of the paper
 
 It's a common misconception that iconicity or sound symbolism is universal, perpetuated in part by the almost universal success of famous experiments involving pseudowords like *bouba* and *kiki*. But iconicity in natural languages is much more messy than paradigms like *bouba*-*kiki* suggest (see also [here](https://ideophone.org/what-sound-symbolism-can-and-cannot-do-new-paper-in-language/)).
 
@@ -64,7 +64,7 @@ Meanwhile, Japanese already has an ideophone *sarasara* which means 'smooth', an
 
 *Tsuba-ga daradara moreta* "Drool dribbled out *daradara*"
 
-## Summary
+## Conclusions
 
 In sum, we found that there is much more to iconicity than just resemblance. Iconic signs also utilise *systematic* depictive conventions, they rely on *structural markedness* to let people know that they should be interpreted as depictions (see Dingemanse 2019), and they build on world knowledge that can be culturally specific as well as broadly shared. 
 
