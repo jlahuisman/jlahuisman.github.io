@@ -28,13 +28,13 @@ Uppsala University <span class="icon-library" aria-hidden="true"></span><br>Depa
 
 ## Languages <span class="icon-bubbles" aria-hidden="true"></span>
 
-Swedish <span class="icon-star-full"><span class="icon-star-full"><span class="icon-star-empty"></span><span class="icon-star-empty"></span><span class="icon-star-empty"></span>
+English <span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full"><span class="icon-star-full">
 
 Japanese <span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-empty"><span class="icon-star-empty">
 
-French <span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-empty"><span class="icon-star-empty"><span class="icon-star-empty">
+Swedish <span class="icon-star-full"><span class="icon-star-full"><span class="icon-star-empty"></span><span class="icon-star-empty"></span><span class="icon-star-empty"></span>
 
-English <span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full"><span class="icon-star-full">
+French <span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-empty"><span class="icon-star-empty"><span class="icon-star-empty">
 
 ## Programming Languages <span class="icon-wrench" aria-hidden="true"></span>
 
