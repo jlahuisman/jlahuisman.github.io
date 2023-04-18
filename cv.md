@@ -23,7 +23,7 @@ Uppsala University <span class="icon-library" aria-hidden="true"></span><br>Depa
 
 ## Languages <span class="icon-bubbles" aria-hidden="true"></span>
 
-Swedish ★★✰✰✰
+Swedish <span class="icon-star-full" aria-hidden="true"><span class="icon-star-full" aria-hidden="true"><span class="icon-star-empty"></span><span class="icon-star-empty"></span><span class="icon-star-empty"></span>
 
 Japanese <span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span>
 
