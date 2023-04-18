@@ -52,17 +52,17 @@ This was hard to understand, but our interpretation of the finding is that perha
 
 Meanwhile, Japanese already has an ideophone *sarasara* which means 'smooth', and there is a *systematic* depictive convention in the Japanese ideophone lexicon whereby alternations in the voicing of initial obstruents correspond to *semantic* alternations in the domains of size, weight, and coarseness (voiceless obstruents are small/light/fine, while voiced obstruents are big/heavy/coarse)–see [Hamano (1998)](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575861445.shtml). So it makes perfect sense that, given their experiences with the rest of the Japanese ideophone lexicon (and contrary to our English speaking participants), Japanese people should find that *zarazara* sounds the *opposite* of smooth–it sounds *rough*. Some more examples of such pairs in the Japanese ideophone lexicon are given below:
 
-*Kaze-ga **pyuuʔ-to** fuita* "The wind whistled, *pyuuʔ*"
+*Kaze-ga **pyuuʔ**-to fuita* "The wind whistled, *pyuuʔ*"
 
-*Kaze-ga **byuuʔ-to** fuita* "The wind gushed, *byuuʔ*"
+*Kaze-ga **byuuʔ**-to fuita* "The wind gushed, *byuuʔ*"
 
-*Hato-ga kuukuu-to naku* "The pigeon coos *kuukuu*"
+*Hato-ga **kuukuu**-to naku* "The pigeon coos *kuukuu*"
 
-*Onaka-ga guuguu-to naku* "My stomach growls *guuguu*"
+*Onaka-ga **guuguu**-to naku* "My stomach growls *guuguu*"
 
-*Mizu-ga taratara moreta* "Water trickled out *taratara*"
+*Mizu-ga **taratara** moreta* "Water trickled out *taratara*"
 
-*Tsuba-ga daradara moreta* "Drool dribbled out *daradara*"
+*Tsuba-ga **daradara** moreta* "Drool dribbled out *daradara*"
 
 ## Conclusions
 
