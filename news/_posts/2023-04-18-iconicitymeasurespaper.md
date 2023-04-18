@@ -77,7 +77,7 @@ Meanwhile, Japanese already has an ideophone *sarasara* which means 'smooth', an
 
 ### Conclusions
 
-In sum, we found that there is much more to iconicity than just resemblance. Iconic signs also utilise *systematic* depictive conventions, they rely on *structural markedness* to let people know that they should be interpreted as depictions (see Dingemanse 2019), and they build on world knowledge that can be culturally specific as well as broadly shared. 
+In sum, we found that there is much more to iconicity than just resemblance. Iconic signs also rely on *systematic* depictive conventions, they rely on *structural markedness* to let people know that they should be interpreted as depictions (see Dingemanse 2019), and they build on world knowledge that can be culturally specific as well as broadly shared. 
 
 ### Methodological contributions
 
