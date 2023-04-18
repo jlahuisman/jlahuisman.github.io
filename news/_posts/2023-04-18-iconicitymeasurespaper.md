@@ -6,12 +6,14 @@ description: >
    The first paper from my thesis is now out in Language & Cognition!🎉
 sitemap: false
 hide_last_modified: true
+excerpt_separator: <!--more-->
 ---
-
 
 You can find (and cite) it below:
 
 > McLean, B., Dunn, M., & Dingemanse, M. (2023). [Two measures are better than one: Combining iconicity ratings and guessing experiments for a more nuanced picture of iconicity in the lexicon](https://doi.org/10.1017/langcog.2023.9). *Language and Cognition,* 1-24. doi:10.1017/langcog.2023.9
+
+<!--more-->
 
 Summary of the best bits/main takeways below 👇👇👇
 
