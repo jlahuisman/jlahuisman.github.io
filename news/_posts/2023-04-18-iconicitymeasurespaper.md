@@ -1,14 +1,20 @@
 # What do we really measure when we measure iconicity? New paper in Language & Cognition
 
+The first paper from my thesis is now out in Language & Cognition!🎉 You can find (and cite) it below:
+
 > McLean, B., Dunn, M., & Dingemanse, M. (2023). [Two measures are better than one: Combining iconicity ratings and guessing experiments for a more nuanced picture of iconicity in the lexicon](https://doi.org/10.1017/langcog.2023.9). *Language and Cognition,* 1-24. doi:10.1017/langcog.2023.9
+
+Summary of the best bits/main takeways from the paper below 👇👇👇
+
+
 
 It's a common misconception that iconicity or sound symbolism is universal, perpetuated in part by the almost universal success of famous experiments involving pseudowords like *bouba* and *kiki*. But iconicity in natural languages is much more messy than paradigms like *bouba*-*kiki* suggest (see also [here](https://ideophone.org/what-sound-symbolism-can-and-cannot-do-new-paper-in-language/)).
 
 The idea that there is a single, universal iconic 'language' to which we are all attuned is as illusory as the idea that we can all look at an illustration and see the same thing. Iconic words in languages are like [rabbit-ducks](https://en.wikipedia.org/wiki/Rabbit%E2%80%93duck_illusion); what you see depends on who you are and how you're looking.
 
-![Famous duck-rabbit illustration, which looks both like a rabbit and like a duck simultaneously](https://upload.wikimedia.org/wikipedia/commons/4/45/Duck-Rabbit_illusion.jpg?20060329021754)
-<figcaption>Rabbit and Duck. Taken from the 23rd October 1982 issue of *Fliegande Blätter*. Author unknown.</figcaption>
-
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Duck-Rabbit_illusion.jpg?20060329021754" alt="Famous duck-rabbit illustration, which looks both like a rabbit and like a duck simultaneously"></p><p align="center">Rabbit and Duck. Taken from the 23rd October 1982 issue of *Fliegande Blätter*. Author unknown.</p>
+<p></p>
+   
 Which begs the question, what do we *really* measure when we measure iconicity? This is what our new paper investigates. 
 
 What we find is that while the defining feature of iconic signs if that they involve a sense of resemblance, measures of iconicity rarely measure resemblance alone. We argue that this is not a problem–the other things being measured are very interesting and likely part and parcel of many iconic effects!–but it is something researchers should be aware of when operationalising iconicity in scientific investigations. To capture these other processes, and tease them apart in analyses, we suggest a *synthesis* of different measures focused on different aspects of iconicity, and introduce a new python package, [Icotools](https://github.com/BonnieMcLean/IcoTools), designed to make collecting multiple iconicity measures in tandem easier. 
