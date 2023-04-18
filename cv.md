@@ -37,7 +37,7 @@ R <span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-
 
 Python <span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span>
 
-Java <span class="icon-star-full" aria-hidden="true">
+Java <span class="icon-star-full" aria-hidden="true"><span class="icon-star-empty"><span class="icon-star-empty">
 
 ## Contact
 
