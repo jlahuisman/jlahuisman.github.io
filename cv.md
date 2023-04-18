@@ -39,7 +39,7 @@ Python <span class="icon-star-full" aria-hidden="true"></span><span class="icon-
 
 Java <span class="icon-star-full" aria-hidden="true"><span class="icon-star-empty"><span class="icon-star-empty">
 
-## Teaching<span class="users"></span>
+## Teaching<span class="icon-briefcase"></span>
   
 * Språk, kultur, och tanke (Language, Culture, Thought), Spring 2023, Uppsala University
 * Lingvistisk forskning och forskningsmetoder (Linguistic research and research methods), Spring 2021, Uppsala University
