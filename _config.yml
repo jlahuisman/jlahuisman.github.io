@@ -53,12 +53,15 @@ author:
 menu:
   - title:             About
     url:               /about/
+  - title:             Blog posts
+    url:               /news/
   - title:             Publications
     url:               /publications/
   - title:             CV
     url:               /cv/
   - title:             Contact
     url:               /cv#contact
+   
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
