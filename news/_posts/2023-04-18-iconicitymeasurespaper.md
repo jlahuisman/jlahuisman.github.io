@@ -2,7 +2,7 @@
 layout: post
 title: New paper - What do we really measure when we measure iconicity?
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/Duck-Rabbit_illusion.jpg?20060329021754
-description: 
+description: >
    The first paper from my thesis is now out in Language & Cognition!🎉
 sitemap: false
 hide_last_modified: true
