@@ -10,6 +10,10 @@
 
 1. Akita, K., & McLean, B. (2021). [Onsyootyoo-tikaku-no niti/ei-taisyoo: Imi-tizu-ni yoru kentoo](https://drive.google.com/file/d/1NhMszLjBaVynXeFuwEa2xtCih-BUd1UP/view) [A contrastive study of Japanese and English speakers’ sound-symbolic perception: A semantic-map approach]. In K. Shinohara & R. Uno (Eds.), *Zikken-ninti-gengogaku [Progress in experimental cognitive linguistics]* (pp. 165–189). Hitsuji Shobo.
 
+## Popular Science Articles
+
+1. McLean, B. 2022 (August). Iconicity in Language Change. [*Babel Linguistic Horizons*](bit.ly/3Ci5hfU)
+
 ## Conference Presentations
 
 1. McLean, B. (2019, May 3 – 5). The diachronic stability of Japanese ideophones and the iconicity-systematicity relationship. Paper presented at the [*12th International Symposium on Iconicity in Language and Literature*](https://konferens.ht.lu.se/fileadmin/user_upload/conference/ill-12/McLean_IIL-12.pdf), Lund, Sweden.
