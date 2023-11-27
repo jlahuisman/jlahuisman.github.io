@@ -34,11 +34,13 @@ Uppsala University <span class="icon-library" aria-hidden="true"></span><br>Depa
 
 English <span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full"><span class="icon-star-full">
 
-Japanese <span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-empty"><span class="icon-star-empty">
+Japanese <span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-full"><span class="icon-star-empty">
 
-Swedish <span class="icon-star-full"><span class="icon-star-full"><span class="icon-star-empty"></span><span class="icon-star-empty"></span><span class="icon-star-empty"></span>
+Swedish <span class="icon-star-full"><span class="icon-star-full"><span class="icon-star-empty"></span><span class="icon-star-full"></span><span class="icon-star-empty"></span>
 
 French <span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-empty"><span class="icon-star-empty"><span class="icon-star-empty">
+
+Dutch <span class="icon-star-full"></span><span class="icon-star-empty"></span><span class="icon-star-empty"><span class="icon-star-empty"><span class="icon-star-empty">
 
 ## Programming Languages <span class="icon-wrench" aria-hidden="true"></span>
 
