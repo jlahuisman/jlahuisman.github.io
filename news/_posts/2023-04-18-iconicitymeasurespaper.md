@@ -40,16 +40,16 @@ And indeed, we found that the two measures *did* agree, supporting the validity 
 
 1. Ideophones were consistently rated higher in iconicity than prosaic words, even when guessed at the same accuracies
 
-   <img src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230407160029564-0660:S1866980823000091:S1866980823000091_fig8.png" alt="Figure showing correlation between guessing accuracies (x-axis) and iconicity ratings (y-axis) for ideophones and prosaic words. There is one line for ideophones, and one for prosaic words, and the lines are parallel but the ideophone line is above the line for the prosaic words.
+   <img src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20231110124550036-0636:S1866980823000091:S1866980823000091_fig8.png" alt="Figure showing correlation between guessing accuracies (x-axis) and iconicity ratings (y-axis) for ideophones and prosaic words. There is one line for ideophones, and one for prosaic words, and the lines are parallel but the ideophone line is above the line for the prosaic words.
 " style="zoom:30%;" />
 
 2. Raters were also more *consistent* with each other when rating ideophones, compared to when rating prosaic words
 
-   <img src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230407160029564-0660:S1866980823000091:S1866980823000091_fig11.png" alt="the figure shows the correlation between responses from individual raters, for ideophones and prosaic words separately, for data from the current study and from Thompson et al. 2020 (who used native Japanese raters). In the current study, raters are clearly more in agreement with eachother when rating ideophones than when rating prosaic words. The same trend is seen in the data from native Japanese raters, but the confidence intervals for the mean correlation overlap so the difference is not statistically significant." style="zoom:30%;" />
+   <img src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20231110124550036-0636:S1866980823000091:S1866980823000091_fig11.png" alt="the figure shows the correlation between responses from individual raters, for ideophones and prosaic words separately, for data from the current study and from Thompson et al. 2020 (who used native Japanese raters). In the current study, raters are clearly more in agreement with eachother when rating ideophones than when rating prosaic words. The same trend is seen in the data from native Japanese raters, but the confidence intervals for the mean correlation overlap so the difference is not statistically significant." style="zoom:30%;" />
 
 3. And guessing accuracies were more *extreme* for ideophones than for prosaic words; at both the high *and* low end of the scale (see right plot below)
 
-   <img src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230407160029564-0660:S1866980823000091:S1866980823000091_fig7.png" alt="The right plot shows guessing accuracies for ideophones and prosaic words. Both ideophones and prosaic words are guessed above chance, though more ideophones are guessed above chance than prosaic words, and also more ideophones are guessed *below* chance than prosaic words." style="zoom:30%;" />
+   <img src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20231110124550036-0636:S1866980823000091:S1866980823000091_fig7.png" alt="The right plot shows guessing accuracies for ideophones and prosaic words. Both ideophones and prosaic words are guessed above chance, though more ideophones are guessed above chance than prosaic words, and also more ideophones are guessed *below* chance than prosaic words." style="zoom:30%;" />
 
 ### Our interpretation
 
