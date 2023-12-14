@@ -35,7 +35,7 @@ Taco rice!
 ![](/assets/img/blog/okinawa/ishigaki-beef.jpg)
 Amazing ishigaki beef!
 
-![](/assets/img/blog/okinawa/chiffon-cake.jpg)
+![](/assets/img/blog/okinawa/chiffoncake.jpg)
 Beautiful chiffon cake in a cafe near the university library (where we actually did work)
 
 ![](/assets/img/blog/okinawa/aserora-beer.jpg)
