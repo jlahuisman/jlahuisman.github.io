@@ -3,7 +3,7 @@ layout: post
 title: Poster presentation in Birmingham, From icon to abstraction
 image: https://umaine.edu/studyabroad/wp-content/uploads/sites/627/2022/03/Birmingham-University.png
 description: 
-   Just finished presenting a poster in the 'From icon to abstraction: how iconicity shapes the lexicon' workshop in Birmingham. Had a great time talking about iconicity with likeminded people!
+   Just finished presenting a poster in the 'From icon to abstraction, how iconicity shapes the lexicon' workshop in Birmingham. Had a great time talking about iconicity with likeminded people!
 sitemap: false
 hide_last_modified: true
 ---
