@@ -9,10 +9,11 @@ hide_last_modified: true
 excerpt_separator: <!--more-->
 ---
 
-If you want to know a little more about me, what got me into linguistics and, more importantly, iconicity (!) you can read my interview with [Babel The Language Magazine](https://babelzine.co.uk/) below. This was published in the August 2022 edition of Babel, available [here](https://cloud.3dissue.com/18743/41457/106040/issue40/index.html?page=40). Special thank you to Kimi Akita for helping me with the definitions of the Japanese ideophones for crying, and to John Huisman for helping me with the illustrations!
+If you want to know a little more about me, what got me into linguistics and, more importantly, iconicity (!) you can read my interview with [Babel The Language Magazine](https://babelzine.co.uk/).
 
 <!--more-->
 
+This was published in the August 2022 edition of Babel, available [here](https://cloud.3dissue.com/18743/41457/106040/issue40/index.html?page=40). Special thank you to Kimi Akita for helping me with the definitions of the Japanese ideophones for crying, and to John Huisman for helping me with the illustrations!
 
 **Q: How did you first get into linguistics?**  
 I’ve always loved learning languages. At the Australian National University where I did my undergraduate degree, all first year language students take Introduction to Linguistics. Most students hate it, but a small percentage adore it – these students go into linguistics. Obviously, I was one of them.
