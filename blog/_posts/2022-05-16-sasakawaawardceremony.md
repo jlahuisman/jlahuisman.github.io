@@ -3,15 +3,14 @@ layout: post
 title: Attending the 2022 Sasakawa Scholarship Award Ceremony in Stockholm
 image: /assets/img/blog/sasakawa-group.jpg
 description: >
-  On monday evening we attended the scholarship award ceremony for the Scandinavia-Japan Sasakawa foundation. We got to meet the Japanese Ambassador to Sweden! It was awesome
+  On monday evening we attended the scholarship award ceremony for the Scandinavia-Japan Sasakawa foundation. We got to meet the Japanese Ambassador to Sweden! It was awesome😀
 sitemap: false
 hide_last_modified: true
 ---
 
-[Link to preprint](https://osf.io/rpf6d/)!
+John and I found this Japan-Scandinavia Sasakawa foundation grant, and we applied to get some money to go to Japan to visit the University of the Ryukyus and get some dialect data from Seizen Nakasone's old field notebooks. They are on microfilm because Japan is super old school and never makes digital versions of anything, so the only way to access the data is to go there yourself and copy it. They wouldn't even digitise it during covid! But anyway, any excuse to visit Japan! We are really looking forward to going, we'll use the data in our upcoming new tree for Japonic which is also very exciting! We are working on that together with the help of Chieh-Hsi Wu, a fabulous statistician from the University of Southampton, and also fellow Japanophile!
 
-Very happy to finally be able to share this, be sure as well to check out the associated python package, [`icotools`](https://github.com/BonnieMcLean/IcoTools), which can be used to make rating and guessing experiments for audio, video, or images! 😀✨
+It was so cool to eat sushi with the Japanese Ambassador to Sweden and hear from all the other interesting researchers who got the same grant!
 
-### Abstract
-
-Iconicity in language is receiving increased attention from many fields, but our understanding of the roles of iconicity in language is only as good as the measures we use to quantify it. We conducted iconicity rating and guessing experiments with 304 Japanese ideophones and prosaic words with sensory meanings, e.g. *fuwafuwa* ‘fluffy’, *jawarakai* ‘soft’. For both word groups, ratings and guesses were positively correlated—suggesting the two measures pick up on the same associations. Ideophones were consistently associated with higher iconicity ratings, but not higher guessing accuracy. We suggest that the structural markedness of ideophones enhances their perceived iconicity in the rating task, but does not provide any advantage (over and above form-meaning associations) in the guessing task. Thus, guesses and ratings could be used together to tease apart the relative contribution of structural markedness to iconic effects. Some ideophones were also poorly guessed, highlighting that construals of iconicity can be language-specific. Finally, we present some methodological contributions, including a new guessing paradigm that improves on the robustness, sensitivity and discriminability of previous approaches, and a reproducible workflow for creating rating and guessing experiments with a Python package, icotools, which we hope will improve comparability between future studies.
+![](/assets/img/blog/sasakawa-individual.jpg)
+Us with the Japanese Ambassador to Sweden!
