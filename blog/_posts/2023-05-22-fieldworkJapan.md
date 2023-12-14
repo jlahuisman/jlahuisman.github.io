@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Attending the 2022 Sasakawa Scholarship Award Ceremony in Stockholm
-image: /assets/img/blog/sasakawa-group.jpg
+title: Archival fieldwork in Okinawa!
+image: /assets/img/blog/fieldwork-okinawa.jpg
 description: >
   On monday evening we attended the scholarship award ceremony for the Scandinavia-Japan Sasakawa foundation. We got to meet the Japanese Ambassador to Sweden! It was awesome😀
 sitemap: false
