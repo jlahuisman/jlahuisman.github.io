@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New paper - What do we really measure when we measure iconicity?
+title: ✨New paper - What do we really measure when we measure iconicity?
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Duck-Rabbit.png/1200px-Duck-Rabbit.png?20090219171009
 description: >
    The first paper from my thesis is now out in Language & Cognition!🎉
