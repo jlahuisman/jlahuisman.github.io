@@ -55,8 +55,8 @@ menu:
     url:               /about/
   - title:             News
     url:               /news/
-  - title:             Blog
-    url:               /blog/
+ # - title:             Blog
+ #   url:               /blog/
   - title:             Publications
     url:               /publications/
   - title:             CV
