@@ -1,0 +1,13 @@
+---
+layout: post
+title: Going to ICHL 25!
+image: https://upload.wikimedia.org/wikipedia/commons/d/da/Radcliffe_Camera%2C_Oxford%2C_UK.jpg 
+description: 
+   I found out last week that my abstract for ICHL 25 was accepted. So excited for the first in-person conference of my PhD!
+sitemap: false
+hide_last_modified: true
+---
+
+The title of my talk will be 'Form-meaning associations drive common patterns in language change' 😀 
+I'm really looking forward to presenting some exciting first results from my thesis, and to finally seeing friends face-to-face again! [Conference website](https://ichl.ling-phil.ox.ac.uk/) 
+
