@@ -59,8 +59,10 @@ Looking at the bigger picture, this book presents an insightful framework for an
 Pamela Perniss and Gabriella Vigliocco (2014) ‘The bridge of iconicity: From a world of experience to the experience of language’, in _Philosophical Transactions of the Royal Society B: Biological Sciences_, 369(1651).    
 An excellent overview of the importance of iconicity in connecting language and experience. 
 
+
 Mark Dingemanse, Francisco Torreira and N. J. Enfield (2013) ‘Is “Huh?” a universal word? Conversational infrastructure and the convergent evolution of linguistic items’, in _PloS One_, 8(11).    
 This paper won the Ig Nobel prize for the discovery that ‘huh’ is a universal word. It’s a great example of convergent evolution in language.    
+
 
 Gary Lupyan and Bodo Winter (2018) ‘Language is more abstract than you think, or, why aren't languages more iconic?’, in _Philosophical Transactions of the Royal Society B: Biological Sciences_, 373(1752).    
 As a counterpoint to the iconicity discussion, this paper explores the role of arbitrariness in conveying abstract meanings. 
