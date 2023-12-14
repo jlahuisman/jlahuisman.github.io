@@ -16,8 +16,11 @@ I’ve always loved learning languages. At the Australian National University wh
 
 **Q: What do you look at when you look at iconicity?**  
 ‘Iconicity’ is a term from semiotics, which is the study of meaning. An iconic sign is a sign whose form resembles its meaning. For example, a picture is an iconic sign because it looks like what it represents.   
+
 For a long time, linguists considered a defining feature of words to be their lack of iconicity. The so-called ‘arbitrariness of the linguistic sign’ (made famous by Ferdinand de Saussure) was very important to historical linguistics: if the relationship between the form of a word and its meaning was arbitrary, then we should not expect two unrelated languages to use similar-sounding words for the same meanings. We could then posit that since, for example, the fruit that English speakers call an ‘apple’ is called _appel_ in Dutch, and _äpple_ in Swedish, these three languages are likely to have some shared history.   
+
 An obvious exception to this is onomatopoeia. Neither chance nor relatedness explains the similarity between English _moomoo_ [mu:mu:] and Japanese _moomoo_ [mo:mo:] for the sound a cow makes. These two words sound similar because they are used to mimic the sounds produced by the same animal. Early proponents of linguistic arbitrariness downplayed these examples because, at least in the Western European languages with which they were familiar, such depictive uses of language were considered ‘marginal’. However, this is far from the case in other parts of the world. In many languages, particularly in Asia and Africa, onomatopoeic words are very common, and not only mimic sounds but also movements, shapes, colours, textures, tastes, smells, and even feelings and emotions—the whole gamut of sensory experience. Depictive uses of language are also very common in sign languages, and in gesture, which we all use, and which is intimately connected to spoken language.    
+
 There is now a growing body of research to attest that iconicity is a key feature of language. It helps children when they are learning language, makes words easier for adults to process, and makes face-to-face communication smoother and more fun. Moreover, when we compare words with the same meaning across unrelated languages, we find commonalities in the sounds employed. This suggests that iconicity is more prevalent than previously thought—even in ordinary words. For example, words for ‘nose’ are more likely to contain nasal sounds like m or n.    
 
 **Q: What got you interested in these areas of linguistics?**  
@@ -31,6 +34,7 @@ I want to know whether the facilitative effects that iconicity has on language l
 **Q: What is your average day like as a researcher?**  
 I started my PhD during the pandemic, so my experience has been different to some researchers’. In my first year I did a lot of online data collection. Crowdsourcing platforms like Prolific have been helpful while running experiments with participants in a lab is difficult. Even though you have less control over how participants conduct the experiment, the rise in online data collection makes the pool of participants more diverse than in lab settings, in which you usually just work with university students. 
 I ask my online participants, who are monolingual English speakers, to listen to Japanese words and try to match them with their meanings based only on how they sound. This helps me to figure out how iconic they are, based on how easily their meanings are guessed.   
+
 Now I’m in my second year, we have been able to spend a bit more time on campus and I’ve been learning a lot from other PhD students in my department, and from postdoctoral researchers who have joined our lab. We come from diverse backgrounds. A lot of the people I work with came to linguistics after studying in other fields like biology or mathematics. Working with them has taught me how to look at languages in different ways and has introduced me to a wider range of possibilities for how to analyse linguistic data. I’ve also been collaborating with researchers in England and am looking forward to attending an in-person conference in Oxford in summer 2022, where I’ll present some new results and finally have an opportunity to meet some of my collaborators in person.   
 
 **Q: Have you published your linguistic research?**   
@@ -44,9 +48,11 @@ Be open to everything. When you’re applying for positions, most applications w
 **Books**     
 Taro Gomi (1989) _An Illustrated Dictionary of Japanese Onomatopoeic Expressions_ (translated by J. Turrent), Japan Times.    
 The introduction to this book is really funny. Taro Gomi doesn’t recommend the Japanese language, but does recommend ‘Japanese onomatopoeic expressions’. His illustrations communicate the clusters of sensory experiences embedded in ideophones’ meanings, and his observations about Japanese onomatopoeia as being connected not so much to the Japanese language itself but to ‘the somewhat grander topic of the nature of words’ reflects his understanding of the role of iconicity in language. 
-Janis B. Nuckolls (1996) Sounds Like Life: Sound-symbolic Grammar, Performance, and Cognition in Pastaza Quechua (volume 2), Oxford University Press. 
+
+Janis B. Nuckolls (1996) _Sounds Like Life: Sound-symbolic Grammar, Performance, and Cognition in Pastaza Quechua_ (volume 2), Oxford University Press.    
 This book offers a more anthropological perspective on the cultural significance of iconicity to the Pastaza Quechua. Fascinating, with beautiful linguistic illustrations.  
-N. J. Enfield (2014) Natural Causes of Language: Frames, Biases and Cultural Transmission, Language Science Press. 
+
+N. J. Enfield (2014) _Natural Causes of Language: Frames, Biases and Cultural Transmission_, Language Science Press.     
 Looking at the bigger picture, this book presents an insightful framework for analysing language change in terms of ‘natural causes’. 
 
 **Articles**    
@@ -55,6 +61,7 @@ An excellent overview of the importance of iconicity in connecting language and 
 
 Mark Dingemanse, Francisco Torreira and N. J. Enfield (2013) ‘Is “Huh?” a universal word? Conversational infrastructure and the convergent evolution of linguistic items’, in _PloS One_, 8(11).    
 This paper won the Ig Nobel prize for the discovery that ‘huh’ is a universal word. It’s a great example of convergent evolution in language.    
+
 Gary Lupyan and Bodo Winter (2018) ‘Language is more abstract than you think, or, why aren't languages more iconic?’, in _Philosophical Transactions of the Royal Society B: Biological Sciences_, 373(1752).    
 As a counterpoint to the iconicity discussion, this paper explores the role of arbitrariness in conveying abstract meanings. 
 
