@@ -1,5 +1,5 @@
 ---
-# Featured tags need to have either the `list` or `grid` layout (PRO only).
+# Featured tags need to have either the `list` or `grid` layout (PRO only).ss
 layout: list
 
 # The title of the tag's page.
