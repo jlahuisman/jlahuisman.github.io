@@ -6,8 +6,8 @@ description: >
    I wrote an article for Babel's Linguistic Horizons series, about iconicity in language change. Check it out!
 sitemap: false
 hide_last_modified: true
-excerpt_separator: <!--more-->
 tags: [outreach]
+excerpt_separator: <!--more-->
 ---
 
 If you want to know a little more about me, what got me into linguistics and, more importantly, iconicity (!) you can read my interview with [Babel The Language Magazine](https://babelzine.co.uk/).
