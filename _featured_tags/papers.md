@@ -1,12 +1,12 @@
 ---
-# Featured tags need to have either the `list` or `grid` layout (PRO only).
+# Featured tags need to have either the `list` or `grid` layout (PRO only).fds
 layout: list
 
 # The title of the tag's page.
-title: Iconicity
+title: Papers
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: iconicity
+slug: papers
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -14,4 +14,6 @@ slug: iconicity
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: true
+
+#test
 ---

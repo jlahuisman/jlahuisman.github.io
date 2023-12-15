@@ -6,6 +6,7 @@ description:
    Just finished presenting a poster in the 'From icon to abstraction, how iconicity shapes the lexicon' workshop in Birmingham. Had a great time talking about iconicity with likeminded people!
 sitemap: false
 hide_last_modified: true
+tags: [conferences]
 ---
 
 You can read more about the fantastic workshop [here](https://www.birmingham.ac.uk/schools/edacs/departments/englishlanguage/events/2023/from-icon-to-abstraction-how-iconicity-shapes-the-lexicon.aspx), and find the abstract for my poster, which I worked on together with John Huisman, Arthur Thompson, and Youngah Do, below:

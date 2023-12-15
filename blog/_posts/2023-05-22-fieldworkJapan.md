@@ -6,6 +6,8 @@ description: >
   Finally made it to Okinawa to get all the linguistics data and eat all the food!
 sitemap: false
 hide_last_modified: true
+tags: [fieldwork]
+
 ---
 
 Top photo is of us and my mum (who tagged along) at Nakijin castle, one of the few surviving ruined castles of the Ryukyu Kingdom, and a UNESCO world heritage site!
