@@ -3,10 +3,10 @@
 layout: list
 
 # The title of the tag's page.
-title: Blog
+title: Iconicity
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: blog
+slug: iconicity
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
