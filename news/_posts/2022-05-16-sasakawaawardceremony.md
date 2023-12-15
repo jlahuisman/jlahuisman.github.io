@@ -6,6 +6,7 @@ description: >
   On monday evening we attended the scholarship award ceremony for the Scandinavia-Japan Sasakawa foundation. We got to meet the Japanese Ambassador to Sweden! It was awesome😀
 sitemap: false
 hide_last_modified: true
+tags: [grants]
 ---
 
 <!--more-->
