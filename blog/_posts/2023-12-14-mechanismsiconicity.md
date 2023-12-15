@@ -7,6 +7,7 @@ description: >
 sitemap: false
 hide_last_modified: true
 tags: [iconicity]
+excerpt_separator: <!--more-->
 ---
 
 Starting with the article inspiring this post, you can find (and cite) it below:
