@@ -6,8 +6,8 @@ description: >
   Finally made it to Okinawa to get all the linguistics data and eat all the food!
 sitemap: false
 hide_last_modified: true
-tags: [fieldwork]
 excerpt_separator: <!--more-->
+tags: [fieldwork]
 ---
 
 Top photo is of us and my mum (who tagged along) at Nakijin castle, one of the few surviving ruined castles of the Ryukyu Kingdom, and a UNESCO world heritage site!
@@ -17,7 +17,7 @@ More photos and highlights below:
 <!--more-->
 
 ![](/assets/img/blog/okinawa/okinawa-soba.jpg)
-Delicious Okinawa soba! Missed this!
+Delicious Okinawa soba, missed this!
 
 ![](/assets/img/blog/okinawa/gooya-champuru.jpg)
 Another classic, gooya champuru!
