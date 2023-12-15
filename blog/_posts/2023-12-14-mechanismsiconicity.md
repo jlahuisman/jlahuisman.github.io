@@ -6,6 +6,7 @@ description: >
   Some thoughts on mechanisms of iconicity, inspired by Jarkko Keränen's excellent recent article in Cognitive Linguistics!
 sitemap: false
 hide_last_modified: true
+tags: [iconicity]
 ---
 
 Starting with the article inspiring this post, you can find (and cite) it below:
