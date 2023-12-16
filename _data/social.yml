@@ -37,7 +37,7 @@ telegram:
 twitter:
   name: Twitter
   icon: icon-twitter
-  prepend: 'https://bsky.app/'
+  prepend: 'https://bsky.app/profile/'
 vine:
   name: Vine
   icon: icon-vine
