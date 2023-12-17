@@ -16,9 +16,9 @@ Starting with the article inspiring this post, you can find (and cite) it below:
 
 <!--more-->
 
-Wanted to write a post on this fantastic new paper by my friend and colleague Jarkko Keränen! Jarkko is doing his PhD thesis on cross-modal iconicity in Finnish Sign Language—which is such a cool topic!—at the University of Jyväskylä in Finland, and we are basically in the same year too 😄
+I wanted to write a post on this fantastic new paper by my friend and colleague [Jarkko Keränen](https://www.jyu.fi/en/people/jarkko-keranen)! Jarkko is doing his PhD thesis on cross-modal iconicity in Finnish Sign Language—which is such a cool topic!—at the University of Jyväskylä in Finland, and we are basically in the same year too 😄
 
-There is a lot to love in this paper (and I've included my full set of notes on all the most interesting things at the end of this post), but probably my favourite thing in the paper is Jarkko's discussion of iconicity and in particular *proprioceptive iconicity*. 
+There is a lot to love in this paper (and I've included my full set of notes on all the most interesting things at the end of this post), but probably my favourite thing is Jarkko's discussion of iconicity, and in particular *proprioceptive iconicity*. 
 
 As Jarkko points out, analyses of iconicity in language are most often from the point of view of the *perception*, rather than *production* of signs. As also discussed in Emmorey et al. (2009), the most important difference between production and perception is that in production we also have *articulatory feedback*, which can result in a sense of *proprioceptive iconicity*. Jarkko illustrates this with the example of the sign HAMMERING from FinSL. He explains that when producing the HAMMERING sign, the signer perceives not only the visual iconicity of the sign from the handshape which resembles the shape of the HAMMER, but there is also a proprioceptive iconicity in how producing the sign _feels_, which extends across the entire body as producing the sign mimics the action of hammering. 
 
