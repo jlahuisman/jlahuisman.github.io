@@ -44,10 +44,11 @@ That's the main thing I wanted to talk about from this paper, but I've also incl
 ## References
 
 1. Emmorey, Karen, Rain Bosworth, and Tanya Kraljic. 2009. ‘Visual Feedback and Self-Monitoring of Sign Language’. Journal of Memory and Language 61(3): 398–411.
-2. Perlman, Marcus, Hannah Little, Bill Thompson, and Robin L Thompson. 2018. ‘Iconicity in Signed and Spoken Vocabulary: A Comparison Between American Sign Language, British Sign Language, English, and Spanish’. Frontiers in psychology 9: 1433.
-3. Winter, Bodo, Marcus Perlman, Lynn K Perry, and Gary Lupyan. 2017. ‘Which Words Are Most Iconic?’ Interaction Studies 18(3): 443–64.
-4. Winter, Bodo. 2019. ‘Synaesthetic Metaphors Are Neither Synaesthetic nor Metaphorical’. In Perception Metaphors, eds. Laura J. Speed, Carolyn O’Meara, Lila San Roque, and Asifa Majid. Amsterdam & Philadelphia: John Benjamins Publishing Company, 105–26.
-5. Sonesson, Göran. 1996. ‘Indexicality as Perceptual Mediation’. In Christiane Pankow (ed.), Indexicality. Papers from the Third Biannual Meeting of the Swedish Society for Semiotic Studies , 127–143. Gothenburg University SSKKII Report 9604.
-6. Sonesson, Göran. 2014. The cognitive semiotics of the picture sign. In David Machin (ed.). Visual communication,23–50. Berlin, Boston: Walter de Gruyter.
+2. Keränen, Jarkko. 2023. ‘Cross-Modal Iconicity and Indexicality in the Production of Lexical Sensory and Emotional Signs in Finnish Sign Language’. Cognitive Linguistics 34(3–4): 333–69.
+3. Perlman, Marcus, Hannah Little, Bill Thompson, and Robin L Thompson. 2018. ‘Iconicity in Signed and Spoken Vocabulary: A Comparison Between American Sign Language, British Sign Language, English, and Spanish’. Frontiers in psychology 9: 1433.
+4. Winter, Bodo, Marcus Perlman, Lynn K Perry, and Gary Lupyan. 2017. ‘Which Words Are Most Iconic?’ Interaction Studies 18(3): 443–64.
+5. Winter, Bodo. 2019. ‘Synaesthetic Metaphors Are Neither Synaesthetic nor Metaphorical’. In Perception Metaphors, eds. Laura J. Speed, Carolyn O’Meara, Lila San Roque, and Asifa Majid. Amsterdam & Philadelphia: John Benjamins Publishing Company, 105–26.
+6. Sonesson, Göran. 1996. ‘Indexicality as Perceptual Mediation’. In Christiane Pankow (ed.), Indexicality. Papers from the Third Biannual Meeting of the Swedish Society for Semiotic Studies , 127–143. Gothenburg University SSKKII Report 9604.
+7. Sonesson, Göran. 2014. The cognitive semiotics of the picture sign. In David Machin (ed.). Visual communication,23–50. Berlin, Boston: Walter de Gruyter.
 
 
