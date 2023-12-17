@@ -26,7 +26,7 @@ As a comparable example from spoken languages, I thought about the Japanese ideo
 
 ![image](https://github.com/BonnieMcLean/bonniemclean.github.io/assets/66249141/be7fe617-accd-4805-b84a-3e0c7fc98c1b)
 
-Iconicity by sensory modality (modality data are from Lynott & Connell, 2009, 2013; Winter, 2016a); points indicate linear model fits with 95% confidence intervals. Taken from Winter et al. 2017 (p.444)  
+Iconicity of English words by sensory modality (modality data are from Lynott & Connell, 2009, 2013; Winter, 2016a); points indicate linear model fits with 95% confidence intervals. Taken from Winter et al. 2017 (p.444)  
 {:.figcaption}
 
 The authors attributed this finding to the close relationship between our senses of sound and touch, but I am wondering now whether proprioceptive iconicity might also have an explanatory role here. 
