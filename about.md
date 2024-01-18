@@ -8,19 +8,20 @@ redirect_from:
 
 <!--author-->
 
-Hej! I'm Bonnie. I'm a PhD student in Linguistics at Uppsala University (Sweden), and I love words that suit their meanings! 
+Hejsan, I'm John Huisman. I'm a KVHAA Research Fellow at Uppsala University (Sweden), and I study how languages vary across space and change over time, with a particular interest in the meanings of words.
 
-Want to know what I'm talking about? Think about words like *perky*, *pesky*, or *fug*. Words that are really satisfying to use.
+Languages can use the same word with a slightly different pronunication like English *tree* and Swedish *träd*, or even a completely different word, like German *baum*, but somet  
 
-In my research, I look at whether these kinds of words got their forms by accident, or if they are adapted to suit their meanings. 
+In my research, I look at the variation in how languages link words with their meanings.
+
+Cross-linguistic work 
+
+In order to do so, we need to know to things: (1) What are the *words* that a language , and (2) What are the conceptual categories 
 
 This involves two challenges, (1) *quantifying* the relative 'goodness of fit' between words and their meanings, and (2) *reconstructing* the evolutionary histories of these words through time. As I'm interested in this question as it relates to language in general, I work with data from a variety of languages. However, I am most at home with the Japonic language family.
 
 This places my research within the fields of **psycholinguistics**, **historical linguistics**, and **linguistic typology**.
 
-Before starting my PhD, I completed an Honours Degree in Linguistics at The Australian National University, where I wrote my thesis on the phonological and semantic development of Japanese **ideophones**. Ideophones are an example *par excellence* of words that suit their meanings, and are satisfying to use. They are what got me interested in this topic in the first place!
+I completed my PhD at Radboud University in Nijmegen (the Netherlands). For my thesis, I studied variation in form and meaning across the, focusing on words for body parts, colours, and cutting and breaking events, and was awarded the *cum laude* distinction. Before my PhD, I got a Bachelor's degree in Japanese at Zuyd University Maastricht (the Netherlands), followed by a Research Master in Linguistics at Tilburg University (the Netherlands).
 
-When I'm not doing research, you can find me in the kitchen! I keep a log of good recipes I have tried on [my other site](https://www.honestcookingblog.com/).  
-
-And if you're also interested in iconicity, make sure to check out IcoSem, our fantastic seminar group run by [Ian Joo](https://ianjoo.github.io/). We get together once a year to talk about all things iconicity, and for the rest of the year we have a great [facebook group](https://www.facebook.com/groups/697272740766384) together which we use for general discussions. You can find slides and recordings of previous talks on our osf [here](https://osf.io/p2c5g/). Welcome to join!
-
+Outside my research, I keep myself busy with music, video games, and exploring the Swedish outdoors in search of berries and mushrooms.
