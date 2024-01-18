@@ -20,18 +20,18 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Bonnie McLean
+title:                 John L.A. Huisman
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Doctoral student at Uppsala University, studying iconicity in language change.
+  KVHAA Research fellow at Uppsala University, studying language variation and change.
 
 # A shorter description for the sidebar.
-tagline:               Doctoral student at Uppsala University
+tagline:               Researcher at Uppsala University
 
 # A list of keywords for your blog
-keywords:              [iconicity,ideophones,language change]
+keywords:              [semantics,language change]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -43,22 +43,19 @@ keywords:              [iconicity,ideophones,language change]
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Bonnie McLean
-  email:               bonnie.mclean@lingfil.uu.se
-  # # Used by `jekyll-seo-tag`:
-  twitter:             BonnieMayMcLean
-  picture:             /assets/img/profilepic2.jpg
+  name:                John L.A. Huisman
+  email:               john.huisman@lingfil.uu.se
 
 # Add links to the sidebar.
 menu:
   - title:             About
     url:               /about/
-  - title:             News
-    url:               /news/
   - title:             Blog
     url:               /blog/
   - title:             Publications
     url:               /publications/
+  - title:             Kirchröadsj plat
+    url:               /kirchroadsj/
   - title:             CV
     url:               /cv/
   - title:             Contact
