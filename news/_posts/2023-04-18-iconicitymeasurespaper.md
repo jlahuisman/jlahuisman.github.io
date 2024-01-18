@@ -7,7 +7,7 @@ description: >
 sitemap: false
 hide_last_modified: true
 excerpt_separator: <!--more-->
-tags: [papers] [iconicity]
+tags: [papers, iconicity]
 ---
 
 You can find (and cite) it below:
