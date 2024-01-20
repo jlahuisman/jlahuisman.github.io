@@ -1,15 +1,15 @@
 # John L.A. Huisman
 
-Uppsala University <span class="icon-library" aria-hidden="true"></span><br/>
+Uppsala University <span class="icon-library" aria-hidden="true"></span><br>
 Department of Linguistics and Philology
 
 ## Education <span class="icon-googlescholar" aria-hidden="true"></span>
 
-| <span style="font-weight:normal">2016 – 2020</span> | <span style="font-weight:normal; text-align:left">**PhD (cum laude) in Linguistics** <br/> *International Max Planck Research School for Language Sciences &* <br/> *Radboud University, Nijmegen, the Netherlands* <br/> Funded by the Dutch Research Council <br/> The *cum laude* distinction is awarded to the top five percent of all Dutch theses for excellent academic quality <br/> Thesis title: Variation in form and meaning across the Japonic language family with a focus on the Ryukyuan languages <br/> Runner-up to the AVT/Anéla Dissertation Award for best dissertation in the area of linguistics in the Netherlands </span> |
+| <span style="font-weight:normal">2016 – 2020</span> | <span style="font-weight:normal; text-align:left">**PhD (cum laude) in Linguistics** <br> *International Max Planck Research School for Language Sciences &* <br/> *Radboud University, Nijmegen* <br/> <font size = 2> The *cum laude* distinction is awarded to the top five percent of all Dutch theses for excellent academic quality </font><br/> Thesis title: *Variation in form and meaning across the Japonic language family with a focus on the Ryukyuan languages* <br/> <font size = 2> Runner-up to the *AVT/Anéla Dissertation Award* for best dissertation in the area of linguistics in the Netherlands </font></span> |
 | :----------------------------------------------------- | :----------------------------------------------------------- |
-| 2016                                                   | **Institute on Collaborative Language Research** <br/> *University of Alaska, Fairbanks* <br/> <font size = 3> Courses included Transcription, Lexicography, workshops on FLEx and ELAN, and a three-week intensive language documentation project on Miyako Ryukyuan </font> |
-| 2017 – 2018                                            | **International Students Exchange Program**<br>Tokyo University of Foreign Studies<br><font size=2><i>Majors</i>: Japanese<br/><i>Minors</i>: Okinawan, Japanese linguistics</font> |
-| 2014 – 2016                                            | **Bachelor of Philosophy (PhB)**<br>Australian National University<br><font size=2><i>Majors</i>: Linguistics, Japanese<br><i>Minors</i>: Japanese linguistics</font> |
+| 2012 – 2015                                            | **Research Master Language and Communication** <br> Tokyo University of Foreign Studies<br><font size=2><i>Majors</i>: Japanese<br/><i>Minors</i>: Okinawan, Japanese linguistics</font> |
+| 2011 – 2012                                            | **Pre-Master Communication and Information Sciences** <br> Australian National University<br><font size=2><i>Majors</i>: Linguistics, Japanese<br><i>Minors</i>: Japanese linguistics</font> |
+| 2006 – 2010                                            | **Bachelor Oriental Languages and Communication** <br> Australian National University<br><font size=2><i>Majors</i>: Linguistics, Japanese<br><i>Minors</i>: Japanese linguistics</font> |
 
 ## Prizes and Scholarships <span class="icon-award" aria-hidden="true"></span>
 
