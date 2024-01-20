@@ -31,7 +31,7 @@ Uppsala University <br> *Department of Linguistics and Philology*
 | 2015                                                   | **Tilburg University Research Master’s Thesis Prize** <br> <font size = 2> Awarded for the best Research Master thesis of the academic year across all faculties </font> |
 | 2013                                                   | **KNAW Academy Assistants Programme** <br> <font size = 2> Awarded by the <i>Royal Netherlands Academy of Arts and Sciences</i> to outstanding  students to get first-hand experience in academic research </font> |
 
-## <span class="icon-quotes-right"></span> Teaching, workshops and supervision
+## <span class="icon-briefcase"></span> Teaching and supervision
   
 | <span style="font-weight:normal">2024</span> | <span style="font-weight:normal; text-align:left">**Gorilla & Prolific Grants for Behavioral Researchers** <br> <font size = 2> Awarded to early career researchers doing online research, providing one year of free access to all tools in the <i>Gorilla Experiment Builder</i>, combined with credits to reward participants through the Prolific participant pool </font></span> |
 | :----------------------------------------------------- | :----------------------------------------------------------- |
