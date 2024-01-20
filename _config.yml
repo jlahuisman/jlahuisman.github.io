@@ -52,12 +52,12 @@ menu:
     url:               /about/
   - title:             Publications
     url:               /publications/
+  - title:             CV
+    url:               /cv/
   - title:             Blog
     url:               /blog/
   - title:             Kirchröadsj plat
     url:               /kirchroadsj/
-  - title:             CV
-    url:               /cv/
   - title:             Contact
     url:               /cv#contact
    
