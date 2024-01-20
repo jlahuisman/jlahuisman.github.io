@@ -11,6 +11,9 @@
 | 2021                                         | Huisman JLA, Franco KF & van Hout R <br> **Linking linguistic and geographic distance in four semantic domains: computational geo-analyses of internal and external factors in a dialect continuum** <br> *Frontiers in Artificial Intelligence, 4: 71* |
 | 2021                                         | Huisman JLA <br> **Variation in form and meaning across the Japonic language family with a focus on the Ryukyuan languages** <br> *PhD thesis from Radboud University* |
 | 2019                                         | Huisman JLA, Majid A & van Hout R <br> **The geographical configuration of a language area influences linguistic diversity** <br> *PLoS ONE, 14(6): e0217363* |
+| 2018                                         | Huisman JLA & Majid A <br> **Psycholinguistic variables matter in odor naming** <br> *Memory & Cognition, 46(4): 577-588* |
+| 2017                                         | Wnuk E, de Valk JM, Huisman JLA & Majid A <br> **Hot and Cold Smells: Odor-Temperature Associations across Cultures** <br> *Frontiers in Psychology, 8: 1373* |
+| 2017                                         | de Valk JM, Wnuk E, Huisman JLA & Majid A <br> **Odor–color associations differ with verbal descriptors for odors: A comparison of three linguistically diverse groups** <br> *Psychonomic Bulletin & Review, 24(4): 1171-1179* |
 
 ## Recent presentations
 
