@@ -22,14 +22,14 @@ Uppsala University <br> *Department of Linguistics and Philology*
 
 ## Grants and Awards <span class="icon-award" aria-hidden="true"></span>
 
-| <span style="font-weight:normal">2023</span> | <span style="font-weight:normal; text-align:left">**Gorilla & Prolific Grants for Behavioral Researchers** <br> <font size = 2> Awarded to early career researchers doing online research, providing one year of free access to all tools in the Gorilla Experiment Builder, combined with credits to reward participants through the Prolific participant pool </font></span> |
+| <span style="font-weight:normal">2023</span> | <span style="font-weight:normal; text-align:left">**Gorilla & Prolific Grants for Behavioral Researchers** <br> <font size = 2> Awarded to early career researchers doing online research, providing one year of free access to all tools in the <i>Gorilla Experiment Builder</i>, combined with credits to reward participants through the Prolific participant pool </font></span> |
 | :----------------------------------------------------- | :----------------------------------------------------------- |
 | 2022                                                   | **Royal Swedish Academy of Letters, History and Antiquities** <br> <font size = 2> Awarded to researchers in the humanities and social sciences to strengthen research in the cognitive sciences through a three+two-year research position </font> |
 | 2022                                                   | **Scandinavia-Japan Sasakawa Foundation** <br> <font size = 2> Scholarships and grants provided for exchanges between Japan and the Nordic countries </font> |
 | 2020                                                   | **Niels Stensen Fellowship** <br> <font size = 2> Awarded to outstanding researchers who recently received their PhD to enable them to gain research experience at a top university or institute abroad </font> |
-| 2016                                                   | **NWO PhDs in the Humanities** <br> <font size = 2> Awarded by the Dutch Research Council to provide talented researchers with a paid position to obtain a doctorate </font> |
+| 2016                                                   | **NWO PhDs in the Humanities** <br> <font size = 2> Awarded by the <i>Dutch Research Council</i> to provide talented researchers with a paid position to obtain a doctorate </font> |
 | 2015                                                   | **Tilburg University Research Master’s Thesis Prize** <br> <font size = 2> Awarded for the best Research Master thesis of the academic year across all faculties </font> |
-| 2013                                                   | **KNAW Academy Assistants Programme** <br> <font size = 2> Awarded by the Royal Netherlands Academy of Arts and Sciences to outstanding  students to get first-hand experience in academic research </font> |
+| 2013                                                   | **KNAW Academy Assistants Programme** <br> <font size = 2> Awarded by the <i>Royal Netherlands Academy of Arts and Sciences</i> to outstanding  students to get first-hand experience in academic research </font> |
 
 ## Teaching <span class="icon-briefcase"></span>
   
