@@ -14,23 +14,22 @@ Uppsala University <br> *Department of Linguistics and Philology*
 
 ## Education <span class="icon-googlescholar" aria-hidden="true"></span>
 
-| <span style="font-weight:normal">2016 – 2020</span> | <span style="font-weight:normal; text-align:left">**PhD (cum laude) in Linguistics** <br> *International Max Planck Research School for Language Sciences &* <br/> *Radboud University, Nijmegen* <br/> <font size = 2> <i> Funded by the Dutch Research Council </i> <br> <b> Thesis title: <i> Variation in form and meaning across the Japonic language family with a focus on the Ryukyuan languages </i> </b> <br/> The <i> cum laude </i> distinction is awarded to the top five percent of all Dutch theses for excellent academic quality </font></span> |
+| <span style="font-weight:normal">2016 – 2020</span> | <span style="font-weight:normal; text-align:left">**PhD (cum laude) in Linguistics** <br> *International Max Planck Research School for Language Sciences &* <br/> *Radboud University, Nijmegen* <br/> <font size = 2> <i> Funded by the Dutch Research Council </i> <br> <b> Thesis title: <i> Variation in form and meaning across the Japonic language family with a focus on the Ryukyuan languages </i> </b> <br/> The <i> cum laude </i> distinction is awarded to the top five percent of all Dutch doctoral theses for excellent academic quality </font></span> |
 | :----------------------------------------------------- | :----------------------------------------------------------- |
 | 2012 – 2015                                            | **Research Master Language and Communication** <br> Tilburg University <br> <font size = 2> Coursed included Phonetics & Phonology, Morphology & Syntax, Semantics & Pragmatics, Language Testing, and Language Policy </font> |
 | 2011 – 2012                                            | **Pre-Master Communication and Information Sciences** <br> Tilburg University <br> <font size = 2> Courses included Linguistics, Sociolinguistics, Language Acquisition, and Multilingualism in Education </font> |
 | 2006 – 2010                                            | **Bachelor Oriental Languages and Communication** <br> Zuyd University, Maastricht <br ><font size = 2> Courses included Japanese reading & writing, Japanese listening & speaking, and Intercultural Communication </font> |
 
-## Prizes and Scholarships <span class="icon-award" aria-hidden="true"></span>
+## Grants and Awards <span class="icon-award" aria-hidden="true"></span>
 
-* *Best PhD Presentation* (SLE 2021)
-* [*Australian Federation of Graduate Women Prize*](https://www.anu.edu.au/students/program-administration/prizes/australian-federation-of-graduate-women-act-inc-prize) 
-* [*New Colombo Plan Scholarship*](https://www.dfat.gov.au/people-to-people/new-colombo-plan/about) (Australian Department of Foreign Affairs and Trade)
-* *Reginald de Bray Prize for Linguistics* (Australian National University)
-
-## Grants $$$
-
-* [Gjerdmans Stiftelse](https://uaf.se/soek-stipendier/stiftelser/o-gjerdmans-stiftelse/), 2022
-* [Scandinavia-Japan Sasakawa Foundation Grant](https://sjsf.se/), 2022
+| <span style="font-weight:normal">2023</span> | <span style="font-weight:normal; text-align:left">**Gorilla & Prolific Grants for Behavioral Researchers** <br> <font size = 2> Awarded to early career researchers doing online research, providing one year of free access to all tools in the Gorilla Experiment Builder, combined with credits to reward participants through the Prolific participant pool </font></span> |
+| :----------------------------------------------------- | :----------------------------------------------------------- |
+| 2022                                                   | **Royal Swedish Academy of Letters, History and Antiquities** <br> <font size = 2> Awarded to researchers in the humanities and social sciences to strengthen research in the cognitive sciences through a three+two-year research position </font> |
+| 2022                                                   | **Scandinavia-Japan Sasakawa Foundation** <br> <font size = 2> Scholarships and grants provided for exchanges between Japan and the Nordic countries </font> |
+| 2020                                                   | **Niels Stensen Fellowship** <br> <font size = 2> Awarded to outstanding researchers who recently received their PhD to enable them to gain research experience at a top university or institute abroad </font> |
+| 2016                                                   | **NWO PhDs in the Humanities** <br> <font size = 2> Awarded by the Dutch Research Council to provide talented researchers with a paid position to obtain a doctorate </font> |
+| 2015                                                   | **Tilburg University Research Master’s Thesis Prize** <br> <font size = 2> Awarded for the best Research Master thesis of the academic year across all faculties </font> |
+| 2013                                                   | **KNAW Academy Assistants Programme** <br> <font size = 2> Awarded by the Royal Netherlands Academy of Arts and Sciences to outstanding  students to get first-hand experience in academic research </font> |
 
 ## Teaching <span class="icon-briefcase"></span>
   
