@@ -1,11 +1,10 @@
 # John L.A. Huisman
 
-Uppsala University 
-*Department of Linguistics and Philology*
+Uppsala University <br> *Department of Linguistics and Philology*
 
 ## Academic experience <span class="icon-library" aria-hidden="true"></span><br>
 
-| <span style="font-weight:normal">2023 – present</span> | <span style="font-weight:normal; text-align:left">**KVHAA Research Fellow at Uppsala University** <br> *Department of Linguistics and Philology* <font size = 2> <i> Funded by the Royal Swedish Academy of Letters, History and Antiquities </i> <br> Research project investigating semantic variation and change in the body part lexicon, with special reference to the evolution of conceptual categories </font></span> |
+| <span style="font-weight:normal">2023 – present</span> | <span style="font-weight:normal; text-align:left">**KVHAA Research Fellow at Uppsala University** <br> *Department of Linguistics and Philology* <br> <font size = 2> <i> Funded by the Royal Swedish Academy of Letters, History and Antiquities </i> <br> Research project investigating semantic variation and change in the body part lexicon, with special reference to the evolution of conceptual categories </font></span> |
 | :----------------------------------------------------- | :----------------------------------------------------------- |
 | 2012 – 2015                                            | **Research Master Language and Communication** <br> Tilburg University <br> <font size = 2> Coursed included Phonetics & Phonology, Morphology & Syntax, Semantics & Pragmatics, Language Testing, and Language Policy </font> |
 | 2011 – 2012                                            | **Pre-Master Communication and Information Sciences** <br> Tilburg University <br> <font size = 2> Courses included Linguistics, Sociolinguistics, Language Acquisition, and Multilingualism in Education </font> |
