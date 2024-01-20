@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/profilepic.JPG
+image: /assets/img/jlahuisman_profile.JPG
 hide_description: true
 redirect_from:
   - /download/
