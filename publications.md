@@ -17,11 +17,12 @@
 
 ## Recent presentations
 
-| <span style="font-weight:normal">Native</span> | <span style="font-weight:normal; text-align:left">*Limburgish, Dutch* </span> |
-| :--------------------------------------------- | :---------------------------------------------------------------------------- |
-| Advanced                                       | *English, Japanese*                                                           |
-| Intermediate                                   | *German, Swedish*                                                             |
-| Research                                       | *Amami Ryukyuan, Okinawa Ryukyuan, Miyako Ryukyuan, Yaeyama Ryukyuan, Tohoku Japanese* |
+| <span style="font-weight:normal">2023</span> | <span style="font-weight:normal; text-align:left"> Huisman JLA, McLean B & Wu C-H <br> **A new phylogeny of Japonic based on combined lexical and phonotactic data** <br> *Uppsala Working Group on Empirical Linguistics, Uppsala* </span> |
+| :------------------------------------------- | :---------------------------------------------------------------------------- |
+| ~~2023~~ (cancelled)                         | ~~Huisman JLA & McLean B <br> **The linguistic history of the Ryukyus: inheritance and contact** <br> *“The (pre)history of the languages of Japan – Current issues and prospects”workshop at the 26th International Conference on Historical Linguistics, Heidelberg*~~ |
+| 2023                                         | Vesakoski O, de Heer M, Dunn M, Huisman JLA, Jing Y, Norvik M & Tresoldi T <br> **Vertical and horizontal evolution of the Uralic language family and its relation to genetic and cultural history** <br> *“Language change in the Arctic” workshop at the 56th Annual Meeting of theSocietas Linguistica Europaea, Athens* |
+| 2023                                         | *Amami Ryukyuan, Okinawa Ryukyuan, Miyako Ryukyuan, Yaeyama Ryukyuan, Tohoku Japanese* |
+| 2023                                         | *Amami Ryukyuan, Okinawa Ryukyuan, Miyako Ryukyuan, Yaeyama Ryukyuan, Tohoku Japanese* |
 
 ## Public outreach
 
