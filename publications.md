@@ -6,7 +6,11 @@
 | :------------------------------------------- | :---------------------------------------------------------------------------- |
 | 2023                                         | Huisman JLA, van Hout R & Majid A <br> **Cross-linguistic constraints and lineage-specific developments in the semantics of cutting and breaking in Japonic and Germanic** <br> *Linguistic Typology 27(1): 41-75* |
 | 2023                                         | Speed L, de Valk J, Croijmans I, Huisman JLA & Majid A <br> **Odor-Color Associations Are Not Mediated by Concurrent Verbalization** <br> *Cognitive Science 47(4): e13266* |
-| 2022                                         | *Amami Ryukyuan, Okinawa Ryukyuan, Miyako Ryukyuan, Yaeyama Ryukyuan, Tohoku Japanese* |
+| 2022                                         | Huisman JLA, van Hout R & Majid A <br> **Stability and change in the colour lexicon of the Japonic languages** <br> *Studies in Language, 46(2): 323-351* |
+| 2022                                         | Huisman JLA, van Hout R & Majid A <br> **Patterns of semantic variation differ across body parts: Evidence from the Japonic languages** <br> *Cognitive Linguistics, 32(3): 455-486* |
+| 2021                                         | Huisman JLA, Franco KF & van Hout R <br> **Linking linguistic and geographic distance in four semantic domains: computational geo-analyses of internal and external factors in a dialect continuum** <br> *Frontiers in Artificial Intelligence, 4: 71* |
+| 2021                                         | Huisman JLA <br> **Variation in form and meaning across the Japonic language family with a focus on the Ryukyuan languages** <br> *PhD thesis from Radboud University* |
+| 2019                                         | Huisman JLA, Majid A & van Hout R <br> **The geographical configuration of a language area influences linguistic diversity** <br> *PLoS ONE, 14(6): e0217363* |
 
 ## Recent presentations
 
