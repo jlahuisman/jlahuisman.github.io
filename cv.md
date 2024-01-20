@@ -31,34 +31,25 @@ Uppsala University <br> *Department of Linguistics and Philology*
 | 2015                                                   | **Tilburg University Research Master’s Thesis Prize** <br> <font size = 2> Awarded for the best Research Master thesis of the academic year across all faculties </font> |
 | 2013                                                   | **KNAW Academy Assistants Programme** <br> <font size = 2> Awarded by the <i>Royal Netherlands Academy of Arts and Sciences</i> to outstanding  students to get first-hand experience in academic research </font> |
 
-## Teaching <span class="icon-briefcase"></span>
+## Teaching, workshops and supervision <span class="icon-quotes-right"></span>
   
-* Språk, kultur, och tanke (Language, Culture, Thought), Spring 2023, Uppsala University
-* Lingvistisk forskning och forskningsmetoder (Linguistic research and research methods), Spring 2021, Uppsala University
+| <span style="font-weight:normal">2023</span> | <span style="font-weight:normal; text-align:left">**Gorilla & Prolific Grants for Behavioral Researchers** <br> <font size = 2> Awarded to early career researchers doing online research, providing one year of free access to all tools in the <i>Gorilla Experiment Builder</i>, combined with credits to reward participants through the Prolific participant pool </font></span> |
+| :----------------------------------------------------- | :----------------------------------------------------------- |
+| 2022                                                   | **Royal Swedish Academy of Letters, History and Antiquities** <br> <font size = 2> Awarded to researchers in the humanities and social sciences to strengthen research in the cognitive sciences through a three+two-year research position </font> |
+| 2022                                                   | **Scandinavia-Japan Sasakawa Foundation** <br> <font size = 2> Scholarships and grants provided for exchanges between Japan and the Nordic countries </font> |
+| 2020                                                   | **Niels Stensen Fellowship** <br> <font size = 2> Awarded to outstanding researchers who recently received their PhD to enable them to gain research experience at a top university or institute abroad </font> |
+| 2016                                                   | **NWO PhDs in the Humanities** <br> <font size = 2> Awarded by the <i>Dutch Research Council</i> to provide talented researchers with a paid position to obtain a doctorate </font> |
+| 2015                                                   | **Tilburg University Research Master’s Thesis Prize** <br> <font size = 2> Awarded for the best Research Master thesis of the academic year across all faculties </font> |
+| 2013                                                   | **KNAW Academy Assistants Programme** <br> <font size = 2> Awarded by the <i>Royal Netherlands Academy of Arts and Sciences</i> to outstanding  students to get first-hand experience in academic research </font> |
 
-## Supervision
-
-* Johanna Lebert, for her BA thesis ['Establishing a relative chronology of Old Norse Loanwords in Irish: Insights from phonology'](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1750095&dswid=2290)
 
 ## Languages <span class="icon-bubbles" aria-hidden="true"></span>
 
-English <span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full"><span class="icon-star-full">
-
-Japanese <span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-full"><span class="icon-star-empty">
-
-Swedish <span class="icon-star-full"><span class="icon-star-full"><span class="icon-star-full"></span><span class="icon-star-empty"></span><span class="icon-star-empty"></span>
-
-French <span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-empty"><span class="icon-star-empty"><span class="icon-star-empty">
-
-Limburgish <span class="icon-star-full"></span><span class="icon-star-empty"></span><span class="icon-star-empty"><span class="icon-star-empty"><span class="icon-star-empty">
-
-## Programming Languages <span class="icon-wrench" aria-hidden="true"></span>
-
-R <span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span>
-
-Python <span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span><span class="icon-star-full" aria-hidden="true"></span>
-
-Java <span class="icon-star-full" aria-hidden="true"><span class="icon-star-empty"><span class="icon-star-empty">  
+| <span style="font-weight:normal">Native</span> | <span style="font-weight:normal; text-align:left">*Limburgish, Dutch* </span> |
+| :--------------------------------------------- | :---------------------------------------------------------------------------- |
+| Advanced                                       | *English, Japanese*                                                           |
+| Intermediate                                   | *German, Swedish*                                                             |
+| Research                                       | *Amami Ryukyuan, Okinawa Ryukyuan, Miyako Ryukyuan, Yaeyama Ryukyuan, Tohoku Japanese* |
   
 ## Contact
 
