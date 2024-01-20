@@ -20,7 +20,7 @@ Uppsala University <br> *Department of Linguistics and Philology*
 | 2011 – 2012                                            | **Pre-Master Communication and Information Sciences** <br> Tilburg University <br> <font size = 2> Courses included Linguistics, Sociolinguistics, Language Acquisition, and Multilingualism in Education </font> |
 | 2006 – 2010                                            | **Bachelor Oriental Languages and Communication** <br> Zuyd University, Maastricht <br ><font size = 2> Courses included Japanese reading & writing, Japanese listening & speaking, and Intercultural Communication </font> |
 
-## <span class="icon-award" aria-hidden="true"></span> Grants and Awards 
+## <span class="icon-trophy" aria-hidden="true"></span> Grants and Awards 
 
 | <span style="font-weight:normal">2023</span> | <span style="font-weight:normal; text-align:left">**Gorilla & Prolific Grants for Behavioral Researchers** <br> <font size = 2> Awarded to early career researchers doing online research, providing one year of free access to all tools in the <i>Gorilla Experiment Builder</i>, combined with credits to reward participants through the Prolific participant pool </font></span> |
 | :----------------------------------------------------- | :----------------------------------------------------------- |
