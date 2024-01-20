@@ -1,14 +1,11 @@
-# Bonnie McLean
-<a href="https://orcid.org/0000-0002-5487-9239">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
-0000-0002-5487-9239
-</a>
+# John L.A. Huisman
 
-Uppsala University <span class="icon-library" aria-hidden="true"></span><br>Department of Linguistics and Philology
+Uppsala University <span class="icon-library" aria-hidden="true"></span><br/>
+Department of Linguistics and Philology
 
 ## Education <span class="icon-googlescholar" aria-hidden="true"></span>
 
-| <span style="font-weight:normal">2020 – present</span> | <span style="font-weight:normal; text-align:left">**PhD in Linguistics**<br/>Uppsala University</span> |
+| <span style="font-weight:normal">2016 – 2020</span> | <span style="font-weight:normal; text-align:left">**PhD (cum laude) in Linguistics**<br/>International Max Planck Research School for Language Sciences & <br/ >Radboud University, Nijmegen, the Netherlands</span> |
 | :----------------------------------------------------- | :----------------------------------------------------------- |
 | 2018 – 2019                                            | **Honours Degree in Language Studies**<br/>Australian National University<br/><span class="icon-award" aria-hidden="true"></span>University Medal<br/><font size=2> <i>Thesis</i>: <a href="https://openresearch-repository.anu.edu.au/bitstream/1885/186433/1/McLean-Thesis.pdf">One form, many meanings: Iconicity in phonological and semantic development</a></font> |
 | 2017 – 2018                                            | **International Students Exchange Program**<br>Tokyo University of Foreign Studies<br><font size=2><i>Majors</i>: Japanese<br/><i>Minors</i>: Okinawan, Japanese linguistics</font> |

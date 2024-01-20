@@ -50,10 +50,10 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Blog
-    url:               /blog/
   - title:             Publications
     url:               /publications/
+  - title:             Blog
+    url:               /blog/
   - title:             Kirchröadsj plat
     url:               /kirchroadsj/
   - title:             CV
