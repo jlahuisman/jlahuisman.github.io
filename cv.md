@@ -10,6 +10,7 @@ Uppsala University <br> *Department of Linguistics and Philology*
 | 2022                                                   | **Postdoctoral researcher at the University of Turku** <br> *Biological Evolution and Diversification of Languages research group* <br> <font size = 2> Research project investigating patterns of language contact in the Uralic language family using a population genetics framework </font> |
 | 2021-2022                                              | **Part-time lecturer at Uppsala University** <br> *Department of Linguistics and Philology* <br> <font size = 2> Research project investigating patterns of language contact in the Uralic language family using a population genetics framework </font> |
 | 2021                                                   | **Postdoctoral researcher at Uppsala University** <br> *Department of Linguistics and Philology* <br> <font size = 2> <i> Funded by the Niels Stensen Fellowship </i> Research project investigating semantic variation in the Indo-European language family, and its connection to phylogeny, geography and cognition </font> |
+| 2020                                                   | **Junior researcher at Radboud University** <br> *Variation and Distance research group* <br> <font size = 2> Research project on the influence of geographical and language-internal factors on variation in the Limburgish dialect area in the Netherlands and Belgium </font> |
 
 ## Education <span class="icon-googlescholar" aria-hidden="true"></span>
 
