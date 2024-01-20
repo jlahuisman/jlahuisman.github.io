@@ -1,6 +1,6 @@
 # Publications and presentations
 
-## Publications
+## <span class="icon-text" aria-hidden="true"></span> Publications
 
 | <span style="font-weight:normal">2023</span> | <span style="font-weight:normal; text-align:left"> Huisman JLA & van Hout R <br> **The validity of mixed-effects regression for analysing linguistic distance matrices: a simulation study** <br> *Taal & Tongval, 75(1): 58-72* </span> |
 | :------------------------------------------- | :---------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@
 | 2017                                         | Wnuk E, de Valk JM, Huisman JLA & Majid A <br> **Hot and Cold Smells: Odor-Temperature Associations across Cultures** <br> *Frontiers in Psychology, 8: 1373* |
 | 2017                                         | de Valk JM, Wnuk E, Huisman JLA & Majid A <br> **Odor–color associations differ with verbal descriptors for odors: A comparison of three linguistically diverse groups** <br> *Psychonomic Bulletin & Review, 24(4): 1171-1179* |
 
-## Recent presentations
+## <span class="icon-bullhorn" aria-hidden="true"></span> Recent presentations
 
 | <span style="font-weight:normal">2023</span> | <span style="font-weight:normal; text-align:left"> Huisman JLA, McLean B & Wu C-H <br> **A new phylogeny of Japonic based on combined lexical and phonotactic data** <br> *Uppsala Working Group on Empirical Linguistics, Uppsala* </span> |
 | :------------------------------------------- | :---------------------------------------------------------------------------- |
