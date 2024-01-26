@@ -58,8 +58,6 @@ menu:
     url:               /blog/
   - title:             Kirchröadsj plat
     url:               /kirchroadsj/
-  - title:             Tutorials
-    url:               /tutorials/
   - title:             Contact
     url:               /cv#contact
    
@@ -309,14 +307,6 @@ collections:
   projects:
     permalink:         /projects/:path/
     output:            true
-
-  tutorials:
-    order:
-      - hello-world.md
-      - introduction.md
-      - basic-concepts.md
-      - advanced-concepts.md	
-
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
