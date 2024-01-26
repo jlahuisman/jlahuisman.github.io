@@ -38,7 +38,7 @@ Uppsala University <br> *Department of Linguistics and Philology*
 | Advanced                                       | *English, Japanese*                                                           |
 | Intermediate                                   | *German, Swedish*                                                             |
 | Research                                       | *Amami Ryukyuan, Okinawa Ryukyuan, Miyako Ryukyuan, Yaeyama Ryukyuan, Tohoku Japanese* |
-  
+
 ## <span class="icon-link" aria-hidden="true"></span> Contact
 
 <span class="icon-mail" aria-hidden="true"></span> john.huisman@lingfil.uu.se<br><span class="icon-location" aria-hidden="true"></span> Room 9-2011, Engelska Parken, Uppsala<br><span class="icon-envelop" aria-hidden="true"></span> Box 635, 751 26 Uppsala
