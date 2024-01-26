@@ -305,7 +305,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /projects/:path/
+    permalink:         /tutorials/:path/
     output:            true
 
 # File inclusion/exclusion
