@@ -58,6 +58,8 @@ menu:
     url:               /blog/
   - title:             Kirchröadsj plat
     url:               /kirchroadsj/
+  - title:             Tutorials
+    url:               /tutorials/
   - title:             Contact
     url:               /cv#contact
    
