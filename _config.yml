@@ -308,6 +308,13 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  tutorials:
+    order:
+      - hello-world.md
+      - introduction.md
+      - basic-concepts.md
+      - advanced-concepts.md	
+
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
