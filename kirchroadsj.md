@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: list
 title: Kirchröadsj plat
 grouped: true
 ---
