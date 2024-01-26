@@ -2,25 +2,25 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Bonnie McLean
-  email:             bonnie.mclean@lingfil.uu.se
+  name:              John L.A. Huisman
+  email:             john.huisman@lingfil.uu.se
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-#  about:             |
+  # about:             |
 
   # This photo will be used in the about section
-  picture:           /assets/img/profilepic3.jpg
+  picture:           /assets/img/jlahuisman_profile.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         bonniemclean.bsky.social
-    github:          BonnieMcLean
-    googlescholar:     yn1IynIAAAAJ&hl
-    email:           bonnie.mclean@lingfil.uu.se
- #   orcid:           https://orcid.org/0000-0002-5487-9239
+    twitter:         johnhuisman.bsky.social
+    github:          jlahuisman
+    googlescholar:   oqvYp0AAAAAJ
+    email:           john.huisman@lingfil.uu.se
+    # orcid:           https://orcid.org/<id>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # vk:              <username>
