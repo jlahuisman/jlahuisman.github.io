@@ -15,3 +15,5 @@ slug: kirchroadsj
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: true
 ---
+
+Some random text as intro
