@@ -35,13 +35,25 @@ This part of my page is dedicated to some linguistic-y resources on my hometown 
 
 ## Sound changes
 
-Being a Central German variety, Kirchröadsj plat has partly undergone the High German consonant shift. The voiceless stops /p/, /t/ and /k/ have shifted to the fricatives /f/, /s/ and /x/ in intervocalic and word-final positions.
+### High German consonant shift
+
+Being a Central German variety, Kirchröadsj plat has partly undergone the High German consonant shift. 
+
+The voiceless stops /p/, /t/ and /k/ have shifted to the fricatives /f/, /s/ and /x/ in intervocalic and word-final positions.
 
 | English | PWGmc | Dutch | Kirchröadsj | German |
 | :------ | :---- | :---------- | :----- | :----- |
 | 'to sleep' | *slā**p**an | /sla:**p**ən/ | /ʃlɔ**f**ə/ | /ʃla:**f**ən/ |
 | 'ship' | *ski**p** | /sxɪ**p**/ | /ʃɪ**f**/ | /ʃɪ**f**/ |
-| 'water' | *wa**t**ar | /ʋa:**t**ər | /wa**s**əʁ/ | /va**s**ər/ |
+| 'water' | *wa**t**ar | /ʋa:**t**ər/ | /wa**s**əʁ/ | /va**s**ər/ |
 | 'foot' | *fō**t** | /vu**t**/ | /vo**s**/ | /fu:**s**/ |
 | 'to make' | *ma**k**ōn | /ma:**k**ən | /mā:**x**ə/ | /ma**x**ən/ |
 | 'book' | *bō**k** | /bu**k**/ | /bo**x**/ | /bu:**x**/ |
+
+In word-initial position, only /t/ has shifted to /ts/ -- /p/ and /k/ remain.
+
+| English | PWGmc | Dutch | Kirchröadsj | German |
+| :------ | :---- | :---------- | :----- | :----- |
+| 'horse' | ****p***arafred  | /**p**a:rt/ | /**p**ɪ:ət/ | /**pf**e:rt/ |
+| 'tongue' | ***t**ungā | /**t**ɔŋ | /**ts**ɔŋ/ | /**ts**uŋə/ |
+| 'child' | ***k**ind | /**k**ɪnt/ | /**k**ɪŋk/ | /**k**ɪnt/ |
