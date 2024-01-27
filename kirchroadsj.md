@@ -19,6 +19,12 @@ This part of my page is dedicated to some linguistic-y resources on my hometown 
 
 ### Vowels
 
+| <span style="font-weight:normal">i</span> | <span style="font-weight:normal">i:</span> | <span style="font-weight:normal">y</span> | <span style="font-weight:normal">y:</span> | <span style="font-weight:normal"></span> | <span style="font-weight:normal"></span> | <span style="font-weight:normal"></span> | <span style="font-weight:normal">u</span> | <span style="font-weight:normal">u:</span> |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  i  |  i: |  y  |  y: |     |     |     |  u  |  u: |
+|  ɪ  |  e: |  ʏ  |  ø: |     |     |     |  o  |  o: |
+|  ɛ  |  ɛ: |  œ  |  œ: |     |  ə  |     |  ɔ  |  ɔ: |
+|     |     |     |     |     |  a: |     |  ɑ  |     |
 
 
 Being a Central German variety, Kirchröadsj plat has partly undergone the High German consonant shift. The voiceless stops /p/, /t/ and /k/ have shifted to the fricatives /f/, /s/ and /x/ in intervocalic and word-final positions.
