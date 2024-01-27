@@ -27,7 +27,11 @@ This part of my page is dedicated to some linguistic-y resources on my hometown 
 
 #### Diphthongs
 
-
+| <span style="font-weight:normal">iə</span> | <span style="font-weight:normal">yə</span> | <span style="font-weight:normal"></span> | <span style="font-weight:normal"></span> | <span style="font-weight:normal"></span> | <span style="font-weight:normal">uə</span> |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  ɪə |  ʏə |     |     |     |  oə |
+|  ɛi |  œy |     |     |  ɔi |  ɔu |
+|     |     |     |     |  ɑi |  ɑu |
 
 Being a Central German variety, Kirchröadsj plat has partly undergone the High German consonant shift. The voiceless stops /p/, /t/ and /k/ have shifted to the fricatives /f/, /s/ and /x/ in intervocalic and word-final positions.
 
