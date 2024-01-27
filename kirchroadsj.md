@@ -57,3 +57,11 @@ In word-initial position, only /t/ has shifted to /ts/ -- /p/ and /k/ remain.
 | 'horse' | ***p**arafred  | /**p**a:rt/ | /**p**ɪ:ət/ | /**pf**e:rt/ |
 | 'tongue' | ***t**ungā | /**t**ɔŋ | /**ts**ɔŋ/ | /**ts**uŋə/ |
 | 'child' | ***k**ind | /**k**ɪnt/ | /**k**ɪŋk/ | /**k**ɪnt/ |
+
+Geminated /tt/ has shifted to /ts/, whereas /pp/ and /kk/ simplified to /p/ and /k/.
+
+| English | PWGmc | Dutch | Kirchröadsj | German |
+| :------ | :---- | :---------- | :----- | :----- |
+| 'apple' | *a**pp**lu  | /a**p**əl/ | /a**p**əl/ | /a**pf**əl/ |
+| 'to sit' | *si**tt**jan | /zɪ**t**ə/ | /zɪ**ts**ə/ | /zɪ**ts**ən/ |
+| 'to lick' | *li**kk**ōn | /lɪ**k**ən/ | /lɛ**k**ə/ | /lɛ**k**ən/ |
