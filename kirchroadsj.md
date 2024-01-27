@@ -8,6 +8,6 @@ This part of my page is dedicated to some linguistic-y resources on my hometown 
 
 | Dutch | Kirchröadsj | German |
 | :---- | :---------- | :----- |
-| lo:pə(n) | lo:fə | laʊfən |
-| ʋa:tər | wɑsəʁ | vasər |
-| ma:kə(n)| ma:xə | maxən|
+| lo:***p***ə(n) | lo:***f***ə | laʊ***f***ən |
+| ʋa:***t***ər | wɑ***s***əʁ | va***s***ər |
+| ma:***k***ə(n)| ma:***x***ə | ma***x***ən|
