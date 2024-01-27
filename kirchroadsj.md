@@ -50,11 +50,11 @@ The voiceless stops /p/, /t/ and /k/ have shifted to the fricatives /f/, /s/ and
 | 'to make' | *ma**k**ōn | /ma:**k**ən/ | /mā:**x**ə/ | /ma**x**ən/ |
 | 'book' | *bō**k** | /bu**k**/ | /bo**x**/ | /bu:**x**/ |
 
-In word-initial position, only /t/ has shifted to /ts/ -- /p/ and /k/ remain.
+In word-initial position, /t/ has shifted to /ts/, but /p/ and /k/ remain.
 
 | English | PWGmc | Dutch | Kirchröadsj | German |
 | :------ | :---- | :---------- | :----- | :----- |
-| 'horse' | ***p**arafred  | /**p**a:rt/ | /**p**ɪ:ət/ | /**pf**e:rt/ |
+| 'horse' | ***p**arafred  | /**p**a:rt/ | /**p**ɪ̄:ət/ | /**pf**e:rt/ |
 | 'tongue' | ***t**ungā | /**t**ɔŋ/ | /**ts**ɔŋ/ | /**ts**uŋə/ |
 | 'child' | ***k**ind | /**k**ɪnt/ | /**k**ɪŋk/ | /**k**ɪnt/ |
 
