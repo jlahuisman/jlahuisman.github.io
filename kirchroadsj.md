@@ -9,5 +9,5 @@ This part of my page is dedicated to some linguistic-y resources on my hometown 
 | Dutch | Kirchröadsj | German |
 | :---- | :---------- | :----- |
 | lo:**p**ə(n) | lo:**f**ə | laʊ**f**ən |
-| ʋa:**t**ər | wɑ**s**əʁ | va**s**ər |
+| ʋa:**t**ər | wa**s**əʁ | va**s**ər |
 | ma:**k**ə(n)| ma:**x**ə | ma**x**ən|
