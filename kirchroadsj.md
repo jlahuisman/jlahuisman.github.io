@@ -4,12 +4,14 @@ layout: page
 
 # Kirchröadsj plat
 
-This part of my page is dedicated to some linguistic-y resources on my hometown dialect *Kirchröadsj plat* [kɪʁᵻ̯çʁʏə̯tʃ plɑt], spoken in Kerkrade (the Netherlands). Many speakers treat it as a variety of Limburgish (Low Franconian) because of geographic and sociocultural factors, but from a linguistic point of view it is a Ripuarian (Central German) variety.
+This part of my page is dedicated to some linguistic-y resources on my hometown dialect *Kirchröadsj plat* [kɪʁᵻ̯çʁʏə̯tʃ plɑt], spoken in Kerkrade (the Netherlands). Many speakers treat it as a variety of Limburgish (Low Franconian) because of geographic and sociocultural factors, but from a linguistic point of view it is a Central German -- specifically, a Ripuarian -- variety.
 
-Kirchröadsj plat has partly undergone the High German consonant shift. Intervocalic /p/, /t/ and /k/ have shifted to /f/, /s/ and /x/.
+As a Central German, Kirchröadsj plat has partly undergone the High German consonant shift. The voiceless stops /p/, /t/ and /k/ have shifted to the fricatives /f/, /s/ and /x/ in intervocalic and word-final positions.
 
-| Dutch | Kirchröadsj | German |
-| :---- | :---------- | :----- |
-| lo:**p**ən | lo:**f**ə | lau**f**ən |
-| ʋa:**t**ər | wa**s**əʁ | va**s**ər |
-| ma:**k**ən | ma:**x**ə | ma**x**ən|
+| English | Dutch | Kirchröadsj | German |
+| :------ | :---- | :---------- | :----- |
+| 'to walk' | /lo:**p**ən | /lō:**f**ə/ | lau**f**ən |
+| 'water' | /ʋa:**t**ər | /wa**s**əʁ/ | va**s**ər |
+| 'foot' | /vu**t**/ | /vo**s**/ | /fu:**s**/ |
+| 'to make' | /ma:**k**ən | /mā:**x**ə/ | ma**x**ən|
+| 'roof' | /da**k**/ | /dā:**x**/ | /da**x**/ |
