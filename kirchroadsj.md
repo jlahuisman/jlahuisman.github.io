@@ -37,11 +37,11 @@ This part of my page is dedicated to some linguistic-y resources on my hometown 
 
 Being a Central German variety, Kirchröadsj plat has partly undergone the High German consonant shift. The voiceless stops /p/, /t/ and /k/ have shifted to the fricatives /f/, /s/ and /x/ in intervocalic and word-final positions.
 
-| English | Dutch | Kirchröadsj | German |
-| :------ | :---- | :---------- | :----- |
-| 'to sleep' | /sla:**p**ən/ | /ʃlɔ**f**ə/ | /ʃla:**f**ən/ |
-| 'ship' | /sxɪ**p**/ | /ʃɪ**f**/ | /ʃɪ**f**/ |
-| 'water' | /ʋa:**t**ər | /wa**s**əʁ/ | /va**s**ər/ |
-| 'foot' | /vu**t**/ | /vo**s**/ | /fu:**s**/ |
-| 'to make' | /ma:**k**ən | /mā:**x**ə/ | /ma**x**ən/ |
-| 'book' | /bu**k**/ | /bo**x**/ | /bu:**x**/ |
+| English | Dutch | Kirchröadsj | German | PWGmc |
+| :------ | :---- | :---------- | :----- | :----- |
+| 'to sleep' | /sla:**p**ən/ | /ʃlɔ**f**ə/ | /ʃla:**f**ən/ | *slā**p**an |
+| 'ship' | /sxɪ**p**/ | /ʃɪ**f**/ | /ʃɪ**f**/ | *ski**p** |
+| 'water' | /ʋa:**t**ər | /wa**s**əʁ/ | /va**s**ər/ | *wa**t**ar |
+| 'foot' | /vu**t**/ | /vo**s**/ | /fu:**s**/ | *fō**t** |
+| 'to make' | /ma:**k**ən | /mā:**x**ə/ | /ma**x**ən/ | *ma**k**ōn |
+| 'book' | /bu**k**/ | /bo**x**/ | /bu:**x**/ | *bō**k** |
