@@ -10,8 +10,9 @@ As a Central German, Kirchröadsj plat has partly undergone the High German cons
 
 | English | Dutch | Kirchröadsj | German |
 | :------ | :---- | :---------- | :----- |
-| 'to walk' | /lo:**p**ən | /lō:**f**ə/ | lau**f**ən |
-| 'water' | /ʋa:**t**ər | /wa**s**əʁ/ | va**s**ər |
+| 'to sleep' | /sla:**p**ən | /ʃlɔ**f**ə/ | /ʃla:**f**ən/ |
+| 'ship' | /sxɪ**p**/ | /ʃɪ**f**/ | /ʃɪ**f**/ |
+| 'water' | /ʋa:**t**ər | /wa**s**əʁ/ | /va**s**ər/ |
 | 'foot' | /vu**t**/ | /vo**s**/ | /fu:**s**/ |
-| 'to make' | /ma:**k**ən | /mā:**x**ə/ | ma**x**ən|
-| 'roof' | /da**k**/ | /dā:**x**/ | /da**x**/ |
+| 'to make' | /ma:**k**ən | /mā:**x**ə/ | /ma**x**ən/ |
+| 'book' | /bu**k**/ | /bo**x**/ | /bu:**x**/ |
