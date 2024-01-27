@@ -33,6 +33,15 @@ This part of my page is dedicated to some linguistic-y resources on my hometown 
 |  ɛi |  œy |     |     |  ɔi |  ɔu |
 |     |     |     |     |  ɑi |  ɑu |
 
+### Franconian tone contrast
+
+As in many of the surrounding varieties, long vowels and diphthongs are realised with one of two pitch accents. As a convention, Accent 1 (*stoottoon* in Dutch; *Schärfung* in German) is marked as falling tone + half-long, and Accent 2 (*sleeptoon* in Dutch; *Schleifton* in German) is marked as mid tone + long.
+
+| Accent 1 | Accent 2 |
+| :------- | :------- |
+| /nâ·s/ 'nose' | /nā:s/ 'wet' |
+| /zî·ə/ 'sea' | /zī:ə/ 'to see' |
+
 ## Sound changes
 
 ### High German consonant shift
