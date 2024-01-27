@@ -54,6 +54,6 @@ In word-initial position, only /t/ has shifted to /ts/ -- /p/ and /k/ remain.
 
 | English | PWGmc | Dutch | Kirchröadsj | German |
 | :------ | :---- | :---------- | :----- | :----- |
-| 'horse' | ****p***arafred  | /**p**a:rt/ | /**p**ɪ:ət/ | /**pf**e:rt/ |
+| 'horse' | ***p**arafred  | /**p**a:rt/ | /**p**ɪ:ət/ | /**pf**e:rt/ |
 | 'tongue' | ***t**ungā | /**t**ɔŋ | /**ts**ɔŋ/ | /**ts**uŋə/ |
 | 'child' | ***k**ind | /**k**ɪnt/ | /**k**ɪŋk/ | /**k**ɪnt/ |
