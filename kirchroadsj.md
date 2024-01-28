@@ -94,5 +94,10 @@ Like German -- but in contrast to Dutch -- *ai and *au are split in Kirchröadsj
 | 'big' | *gr**au**t | /ɣr**o:**t/ | /jʁ**û·ə**s/  | /ɡʁ**o:**s/ |
 | 'to hear' | *h**au**ʀijan | /h**o:**rən/ | /h**ŷ·**ʁə/  | /h**ø:**rən/ |
 
+## Netherlands Ripuarian
 
+### Correspondences of *ɣ
 
+| English | Simpelveld | Bocholtz | Kerkrade | Lemiers | Vaals |
+| :------ | :--------- | :------- | :------- | :------ | :---- |
+| 'good' | gód | jód | jód | - | -
