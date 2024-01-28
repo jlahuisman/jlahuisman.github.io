@@ -4,7 +4,7 @@ layout: page
 
 # Kirchröadsj plat
 
-This part of my page is dedicated to some linguistic-y resources on my hometown dialect *Kirchröadsj plat* [kɪʁᵻ̯çʁʏə̯tʃ plɑt], spoken in Kerkrade (the Netherlands). Many speakers treat it as a variety of Limburgish (Low Franconian) because of geographic and sociocultural factors, but from a linguistic point of view it is a Central German -- specifically, a Ripuarian -- variety.
+This part of my page is dedicated to some linguistic-y resources on my hometown dialect *Kirchröadsj plat* [kɪʁᵻ̯çʁʏə̯tʃ plɑt], spoken in Kerkrade (the Netherlands). Many speakers treat it as a variety of Limburgish (Low Franconian) because of geographic and sociocultural factors, but from a linguistic point of view it is a Central German -- specifically, a Ripuarian -- variety. Within the Netherlands, the varieties spoken in Simpelveld, Bocholtz, Lemiers and Vaals belong to this dialect group as well.
 
 ## Phonology
 
@@ -74,3 +74,16 @@ Geminated /tt/ has shifted to /ts/, whereas /pp/ and /kk/ have simplified to /p/
 | 'apple' | *a**pp**lu  | /a**p**əl/ | /a**p**əl/ | /a**pf**əl/ |
 | 'to sit' | *si**tt**jan | /zɪ**t**ə/ | /zɪ**ts**ə/ | /zɪ**ts**ən/ |
 | 'to lick' | *li**kk**ōn | /lɪ**k**ən/ | /lɛ**k**ə/ | /lɛ**k**ən/ |
+
+Proto-West Germanic *ai and *au
+
+Like German -- but in contrast to Dutch -- *ai and *au are split in Kirchröadsj plat.
+
+| English | PWGmc | Dutch | Kirchröadsj | German |
+| :------ | :---- | :---------- | :----- | :----- |
+| 'leg' | *b**ai**n | /b**e:**n/ | /b**e:**/ | /b**ai**n/ |
+| 'wide' | *br**ai**d | /br**e:**t/ | /bʁ**e:**t/  | /br**ai**t/ |
+| 'sea; lake' | *s**ai**wi | /z**e:**/ | /z**î·ə**/  | /z**e:**/ |
+| 'more' | *m**ai**ʀō | /m**e:**r/ | /m**î·ə**/  | /m**e:**r/ |
+
+
