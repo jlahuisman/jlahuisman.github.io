@@ -50,8 +50,8 @@ Being a Central German variety, Kirchröadsj plat has partly undergone the High 
 
 The voiceless stops /p/, /t/ and /k/ have shifted to the fricatives /f/, /s/ and /x/ in intervocalic and word-final positions.
 
-| English | PWGmc | Standard<br>Dutch | Kirchröadsj | Standard<br>German |
-| :------ | :---- | :---------------- | :---------- | :----------------- |
+| English | PWGmc | Dutch | Kirchröadsj | German |
+| :------ | :---- | :---- | :---------- | :----- |
 | 'to sleep' | *slā**p**an | /sla:**p**ən/ | /ʃlɔ**f**ə/ | /ʃla:**f**ən/ |
 | 'ship' | *ski**p** | /sxɪ**p**/ | /ʃɪ**f**/ | /ʃɪ**f**/ |
 | 'water' | *wa**t**ar | /ʋa:**t**ər/ | /wa**s**əʁ/ | /va**s**ər/ |
@@ -62,7 +62,7 @@ The voiceless stops /p/, /t/ and /k/ have shifted to the fricatives /f/, /s/ and
 In word-initial position, /t/ has shifted to /ts/, but /p/ and /k/ remain.
 
 | English | PWGmc | Dutch | Kirchröadsj | German |
-| :------ | :---- | :---------- | :----- | :----- |
+| :------ | :---- | :---- | :---------- | :----- |
 | 'horse' | ***p**arafred  | /**p**a:rt/ | /**p**ɪ̄:ət/ | /**pf**e:rt/ |
 | 'tongue' | ***t**ungā | /**t**ɔŋ/ | /**ts**ɔŋ/ | /**ts**uŋə/ |
 | 'child' | ***k**ind | /**k**ɪnt/ | /**k**ɪŋk/ | /**k**ɪnt/ |
@@ -70,9 +70,9 @@ In word-initial position, /t/ has shifted to /ts/, but /p/ and /k/ remain.
 Geminated /tt/ has shifted to /ts/, whereas /pp/ and /kk/ have simplified to /p/ and /k/.
 
 | English | PWGmc | Dutch | Kirchröadsj | German |
-| :------ | :---- | :---------- | :----- | :----- |
+| :------ | :---- | :---- | :---------- | :----- |
 | 'apple' | *a**pp**lu  | /a**p**əl/ | /a**p**əl/ | /a**pf**əl/ |
-| 'to sit' | *si**tt**jan | /zɪ**t**ə/ | /zɪ**ts**ə/ | /zɪ**ts**ən/ |
+| 'to sit' | *si**tt**jan | /zɪ**t**ən/ | /zɪ**ts**ə/ | /zɪ**ts**ən/ |
 | 'to lick' | *li**kk**ōn | /lɪ**k**ən/ | /lɛ**k**ə/ | /lɛ**k**ən/ |
 
 ### Proto-West Germanic *ai and *au
@@ -80,10 +80,18 @@ Geminated /tt/ has shifted to /ts/, whereas /pp/ and /kk/ have simplified to /p/
 Like German -- but in contrast to Dutch -- *ai and *au are split in Kirchröadsj plat.
 
 | English | PWGmc | Dutch | Kirchröadsj | German |
-| :------ | :---- | :---------- | :----- | :----- |
+| :------ | :---- | :---- | :---------- | :----- |
 | 'leg' | *b**ai**n | /b**e:**n/ | /b**e:**/ | /b**ai**n/ |
 | 'wide' | *br**ai**d | /br**e:**t/ | /bʁ**e:**t/  | /br**ai**t/ |
 | 'sea; lake' | *s**ai**wi | /z**e:**/ | /z**î·ə**/  | /z**e:**/ |
 | 'more' | *m**ai**ʀō | /m**e:**r/ | /m**î·ə**/  | /m**e:**r/ |
+
+| English | PWGmc | Dutch | Kirchröadsj | German |
+| :------ | :---- | :---- | :---------- | :----- |
+| 'tree' | *b**au**m | /b**e:**n/ | /b**ō:**m/ | /b**au**m/ |
+| 'big' | *gr**au**t | /br**e:**t/ | /jʁ*û·ə***s/  | /ɡʁ**o:**s/ |
+| 'trees' | *s**ai**wi | /z**e:**/ | /b**ø̂·**m/  | /b**ɔi**mə/ |
+| 'to hear' | *h**au**ʀijan | /m**e:**r/ | /h**ŷ·**ʁə/  | /h**ø:**rən/ |
+
 
 
