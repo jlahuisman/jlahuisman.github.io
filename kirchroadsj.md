@@ -100,7 +100,8 @@ Like German -- but in contrast to Dutch -- *ai and *au are split in Kirchröadsj
 
 | English | Simpelveld | Bocholtz | Kerkrade | Lemiers | Vaals |
 | :------ | :--------- | :------- | :------- | :------ | :---- |
-| 'good' | **g**ód | **j**ód | **j**ód | - | -
-| 'bird' | voeë**g**el | vo**gg**el | voeë**j**el | - | -
-| 'to saw' | zeë**g**e | zeë**g**e | zeë**j**e | - | -
-| 'to say' | za**g**e | za**g**e | za**g**e | - | -
+| 'gold' | **g**ood | **j**ood | **j**ood | **j**oold | **j**oold |
+| 'bird' | voeë**g**el | vo**gg**el | voeë**j**el | vouwel | vouwel |
+| 'to saw' | zeë**g**e | zeë**g**e | zeë**j**e | - | - |
+| 'to say' | za**g**e | za**g**e | za**g**e | za**r**e | za**r**e |
+| 'to' | sjwie**g**e | sjwie**g**e | sjwie**j**e | sjwie**j**e | sjwie**j**e |
