@@ -50,8 +50,8 @@ Being a Central German variety, Kirchröadsj plat has partly undergone the High 
 
 The voiceless stops /p/, /t/ and /k/ have shifted to the fricatives /f/, /s/ and /x/ in intervocalic and word-final positions.
 
-| English | PWGmc | Dutch | Kirchröadsj | German |
-| :------ | :---- | :---------- | :----- | :----- |
+| English | PWGmc | Standard<br>Dutch | Kirchröadsj | Standard<br>German |
+| :------ | :---- | :---------------- | :---------- | :----------------- |
 | 'to sleep' | *slā**p**an | /sla:**p**ən/ | /ʃlɔ**f**ə/ | /ʃla:**f**ən/ |
 | 'ship' | *ski**p** | /sxɪ**p**/ | /ʃɪ**f**/ | /ʃɪ**f**/ |
 | 'water' | *wa**t**ar | /ʋa:**t**ər/ | /wa**s**əʁ/ | /va**s**ər/ |
