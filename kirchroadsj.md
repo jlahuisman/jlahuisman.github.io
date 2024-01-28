@@ -102,3 +102,5 @@ Like German -- but in contrast to Dutch -- *ai and *au are split in Kirchröadsj
 | :------ | :--------- | :------- | :------- | :------ | :---- |
 | 'good' | **g**ód | **j**ód | **j**ód | - | -
 | 'bird' | voeë**g**el | vo**gg**el | voeë**j**el | - | -
+| 'to saw' | zeë**g**e | zeë**g**e | zeë**j**e | - | -
+| 'to say' | za**g**e | za**g**e | za**g**e | - | -
