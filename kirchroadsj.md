@@ -100,4 +100,5 @@ Like German -- but in contrast to Dutch -- *ai and *au are split in Kirchröadsj
 
 | English | Simpelveld | Bocholtz | Kerkrade | Lemiers | Vaals |
 | :------ | :--------- | :------- | :------- | :------ | :---- |
-| 'good' | gód | jód | jód | - | -
+| 'good' | **g**ód | **j**ód | **j**ód | - | -
+| 'bird' | voeë**g**el | vo**gg**el | voeë**j**el | - | -
