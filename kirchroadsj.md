@@ -88,10 +88,10 @@ Like German -- but in contrast to Dutch -- *ai and *au are split in Kirchröadsj
 
 | English | PWGmc | Dutch | Kirchröadsj | German |
 | :------ | :---- | :---- | :---------- | :----- |
-| 'tree' | *b**au**m | /b**e:**n/ | /b**ō:**m/ | /b**au**m/ |
-| 'big' | *gr**au**t | /br**e:**t/ | /jʁ**û·ə**s/  | /ɡʁ**o:**s/ |
-| 'trees' | *s**ai**wi | /z**e:**/ | /b**ø̂·**m/  | /b**ɔi**mə/ |
-| 'to hear' | *h**au**ʀijan | /m**e:**r/ | /h**ŷ·**ʁə/  | /h**ø:**rən/ |
+| 'tree' | *b**au**m | /b**o:**m/ | /b**ō:**m/ | /b**au**m/ |
+| 'big' | *gr**au**t | /ɣr**o:**t/ | /jʁ**û·ə**s/  | /ɡʁ**o:**s/ |
+| 'trees' | *b**au**mi | /b**o:**mən/ | /b**ø̂·**m/  | /b**ɔi**mə/ |
+| 'to hear' | *h**au**ʀijan | /h**o:**rən/ | /h**ŷ·**ʁə/  | /h**ø:**rən/ |
 
 
 
