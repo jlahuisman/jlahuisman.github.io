@@ -85,12 +85,13 @@ Like German -- but in contrast to Dutch -- *ai and *au are split in Kirchröadsj
 | 'wide' | *br**ai**d | /br**e:**t/ | /bʁ**e:**t/  | /br**ai**t/ |
 | 'sea; lake' | *s**ai**wi | /z**e:**/ | /z**î·ə**/  | /z**e:**/ |
 | 'more' | *m**ai**ʀō | /m**e:**r/ | /m**î·ə**/  | /m**e:**r/ |
+| 'oak' | ***ai**k | /**ɛi**k/ | /**e:**x/  | /**ai**xə/ |
 
 | English | PWGmc | Dutch | Kirchröadsj | German |
 | :------ | :---- | :---- | :---------- | :----- |
 | 'tree' | *b**au**m | /b**o:**m/ | /b**ō:**m/ | /b**au**m/ |
-| 'big' | *gr**au**t | /ɣr**o:**t/ | /jʁ**û·ə**s/  | /ɡʁ**o:**s/ |
 | 'trees' | *b**au**mi | /b**o:**mən/ | /b**ø̂·**m/  | /b**ɔi**mə/ |
+| 'big' | *gr**au**t | /ɣr**o:**t/ | /jʁ**û·ə**s/  | /ɡʁ**o:**s/ |
 | 'to hear' | *h**au**ʀijan | /h**o:**rən/ | /h**ŷ·**ʁə/  | /h**ø:**rən/ |
 
 
