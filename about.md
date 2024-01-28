@@ -8,7 +8,7 @@ redirect_from:
 
 <!--author-->
 
-Hejsan and welcome! My name is John. I'm a linguist interested in language variation and change. Differences between languages can pop up everywhere, from pronunciation (English *green*, Swedish *grön*, Dutch *groen*), to vocabulary (English *body*, Swedish *kroop*, Dutch *lichaam*), and even semantics (English use *cut* for both cutting with a knife and a pair of scissors, but these are different in Swedish -- *skära*; *klippa* -- and Dutch -- *snijden*; *knippen*).
+Hejsan and welcome! My name is John. I'm a linguist interested in language variation and change. Differences between languages can pop up everywhere, from pronunciation (English *green*, Swedish *grön*, Dutch *groen*), to vocabulary (English *body*, Swedish *kroop*, Dutch *lichaam*), and even semantics (English uses *cut* for both cutting with a knife and a pair of scissors, but these are different in Swedish -- *skära*; *klippa* -- and Dutch -- *snijden*; *knippen*).
 
 Meaning is a fundamental aspect of language. We use language to capture the way we categorise and organise our experience with the world around us. The great diversity in experiences of people of different cultures has led to thousands of different languages across the globe. Studying this diversity helps uncover systematicity in the variation and increases our understanding of the nature and limits of language itself. 
 
