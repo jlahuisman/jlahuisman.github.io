@@ -75,7 +75,7 @@ Geminated /tt/ has shifted to /ts/, whereas /pp/ and /kk/ have simplified to /p/
 | 'to sit' | *si**tt**jan | /zɪ**t**ə/ | /zɪ**ts**ə/ | /zɪ**ts**ən/ |
 | 'to lick' | *li**kk**ōn | /lɪ**k**ən/ | /lɛ**k**ə/ | /lɛ**k**ən/ |
 
-Proto-West Germanic *ai and *au
+### Proto-West Germanic *ai and *au
 
 Like German -- but in contrast to Dutch -- *ai and *au are split in Kirchröadsj plat.
 
