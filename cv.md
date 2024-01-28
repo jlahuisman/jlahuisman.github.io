@@ -12,7 +12,7 @@ Uppsala University <br> *Department of Linguistics and Philology*
 | 2021                                                   | **Postdoctoral researcher at Uppsala University** <br> *Department of Linguistics and Philology* <br> <font size = 2> <i> Funded by the Niels Stensen Fellowship </i> <br> Research project investigating semantic variation in the Indo-European language family, and its connection to phylogeny, geography and cognition </font> |
 | 2020                                                   | **Junior researcher at Radboud University** <br> *Variation and Distance research group* <br> <font size = 2> Research project on the influence of geographical and language-internal factors on variation in the Limburgish dialect area in the Netherlands and Belgium </font> |
 
-## <span class="icon-books" aria-hidden="true"></span> Education
+## <span class="icon-googlescholar" aria-hidden="true"></span> Education
 
 | <span style="font-weight:normal">2016 – 2020</span> | <span style="font-weight:normal; text-align:left">**PhD (cum laude) in Linguistics** <br> *International Max Planck Research School for Language Sciences &* <br/> *Radboud University, Nijmegen* <br/> <font size = 2> <i> Funded by the Dutch Research Council </i> <br> <b> Thesis title: <i> Variation in form and meaning across the Japonic language family with a focus on the Ryukyuan languages </i> </b> <br/> The <i> cum laude </i> distinction is awarded to the top five percent of all Dutch doctoral theses for excellent academic quality </font></span> |
 | :----------------------------------------------------- | :----------------------------------------------------------- |
@@ -20,7 +20,7 @@ Uppsala University <br> *Department of Linguistics and Philology*
 | 2011 – 2012                                            | **Pre-Master Communication and Information Sciences** <br> Tilburg University <br> <font size = 2> Courses included Linguistics, Sociolinguistics, Language Acquisition, and Multilingualism in Education </font> |
 | 2006 – 2010                                            | **Bachelor Oriental Languages and Communication** <br> Zuyd University, Maastricht <br ><font size = 2> Courses included Japanese reading & writing, Japanese listening & speaking, and Intercultural Communication </font> |
 
-## <span class="icon-trophy" aria-hidden="true"></span> Grants and Awards 
+## <span class="icon-award" aria-hidden="true"></span> Grants and Awards 
 
 | <span style="font-weight:normal">2023</span> | <span style="font-weight:normal; text-align:left">**Gorilla & Prolific Grants for Behavioral Researchers** <br> <font size = 2> Awarded to early career researchers doing online research, providing one year of free access to all tools in the <i>Gorilla Experiment Builder</i>, combined with credits to reward participants through the Prolific participant pool </font></span> |
 | :----------------------------------------------------- | :----------------------------------------------------------- |
