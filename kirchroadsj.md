@@ -118,10 +118,20 @@ Kirchröadsj plat has three grammatical genders, *masculine*, *feminine*, and *n
 
 The article precedes the noun.
 
+#### Definite articles
+
 | Gender | Article | IPA | Example |
 | :----- | :------ | :-- | :------ |
 | Masculine | d'r | dəʁ | d'r maan 'the man' |
 | Feminine | de | də | de vrauw 'the woman' |
 | Neuter | 't | ət | 't kink 'the child' |
+
+#### Indefinite articles
+
+| Gender | Article | IPA | Example |
+| :----- | :------ | :-- | :------ |
+| Masculine | inne | ɪnə | inne maan 'the man' |
+| Feminine | ing | ɪŋ | ing vrauw 'the woman' |
+| Neuter | e | ə | e kink 'the child' |
 
 Diminuitive uses the neuter article. Plural uses the feminine article.
