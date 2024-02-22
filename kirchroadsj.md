@@ -107,3 +107,21 @@ Like German -- but in contrast to Dutch -- *ai and *au are split in Kirchröadsj
 | 'to' | sjwie**g**e | sjwie**g**e | sjwie**j**e | sjwie**j**e | sjwie**j**e |
 
 As we can see here, the pattern differs between the various Ripuarian lects.
+
+# Grammar
+
+## Grammatical gender
+
+Kirchröadsj plat has three grammatical genders, *masculine*, *feminine*, and *neuter*.
+
+### Articles
+
+The article precedes the noun.
+
+| Gender | Article | IPA | Example |
+| :----- | :------ | :-- | :------ |
+| Masculine | d'r | dəʁ | d'r maan 'the man' |
+| Feminine | de | də | de vrauw 'the woman' |
+| Neuter | 't | ət | 't kink 'the child' |
+
+Diminuitive uses the neuter article. Plural uses the feminine article.
