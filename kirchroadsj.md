@@ -105,3 +105,5 @@ Like German -- but in contrast to Dutch -- *ai and *au are split in Kirchröadsj
 | 'to saw' | zeë**g**e | zeë**g**e | zeë**j**e | - | - |
 | 'to say' | za**g**e | za**g**e | za**g**e | za**r**e | za**r**e |
 | 'to' | sjwie**g**e | sjwie**g**e | sjwie**j**e | sjwie**j**e | sjwie**j**e |
+
+As we can see here, the pattern differs between the various Ripuarian lects.
