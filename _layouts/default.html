@@ -1,0 +1,143 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1"
+    >
+
+    <title>
+        {{ page.title }} — {{ site.title }}
+    </title>
+
+    <meta
+        name="description"
+        content="{{ site.description }}"
+    >
+
+    <link
+        rel="preconnect"
+        href="https://fonts.googleapis.com"
+    >
+
+    <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin
+    >
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Libre+Baskerville:wght@400;700&display=swap"
+        rel="stylesheet"
+    >
+
+    <link
+        rel="stylesheet"
+        href="{{ '/assets/css/styles.css' | relative_url }}"
+    >
+
+</head>
+
+<body>
+
+    <!-- ==============================
+         SITE HEADER
+         ============================== -->
+
+    <header class="site-header">
+
+        <a
+            class="brand"
+            href="{{ '/' | relative_url }}"
+        >
+            {{ site.title }}
+        </a>
+
+        <nav>
+
+            <a href="{{ '/#about' | relative_url }}">
+                About
+            </a>
+
+            <a href="{{ '/#research' | relative_url }}">
+                Research
+            </a>
+
+            <a href="{{ '/#publications' | relative_url }}">
+                Publications
+            </a>
+
+            <a href="{{ '/#blog' | relative_url }}">
+                Blog
+            </a>
+
+            <a href="{{ '/#contact' | relative_url }}">
+                Contact
+            </a>
+
+        </nav>
+
+    </header>
+
+    {{ content }}
+
+    <!-- ==============================
+         CONTACT / FOOTER
+         ============================== -->
+
+    <footer id="contact">
+
+        <div>
+
+            <p class="section-kicker">
+                06 / Contact
+            </p>
+
+            <h2>
+                {{ site.data.contact.title | default: "Let’s talk." }}
+            </h2>
+
+        </div>
+
+        <div class="footer-contact">
+
+            <p>
+                {{ site.data.contact.details
+                    | default: "Your Name<br>Department · University<br>City, Country"
+                }}
+            </p>
+
+            <a
+                href="mailto:{{ site.data.contact.email | default: 'email@university.edu' }}"
+            >
+                {{ site.data.contact.email | default: "email@university.edu" }}
+            </a>
+
+            <div class="socials">
+
+                <a href="#">
+                    ORCID
+                </a>
+
+                <a href="#">
+                    Google Scholar
+                </a>
+
+                <a href="#">
+                    LinkedIn
+                </a>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+</body>
+
+</html>

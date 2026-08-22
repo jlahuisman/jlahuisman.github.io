@@ -1,0 +1,21 @@
+title: John Huisman
+description: Academic personal website
+url: "https://johnhuisman.info"
+baseurl: ""
+
+markdown: kramdown
+permalink: /blog/:title/
+
+collections:
+  content:
+    output: false
+
+  publications:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
