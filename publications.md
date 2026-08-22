@@ -11,7 +11,22 @@ permalink: /publications/
 
 <div class="page-content">
 
-{% assign pubs = site.publications | sort:
-"year" | reverse %}{% for pub in pubs %}<p><span class="pub-year">{{ pub.year
-}}</span><br><strong>{{ pub.title }}</strong><br>{{ pub.citation }}</p>{% endfor
-%}</div><a class="back" href="{{ '/' | relative_url }}#publications">← Back</a></main>
+{% assign pubs = site.publications | sort: "year" | reverse %}
+
+{% for pub in pubs %}
+
+<p>
+<span class="pub-year">{{ pub.year }}</span>
+<br>
+<strong>{{ pub.title }}</strong>
+<br>
+{{ pub.authors }}
+<br>
+<em>{{ pub.journal }}</em>
+</p>
+{% endfor %}
+
+</div>
+<a class="back" href="{{ '/' | relative_url }}#publications">← Back</a>
+
+</main>
