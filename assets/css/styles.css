@@ -1,11 +1,11 @@
 :root {
-    --ink: #1f3042;
-    --muted: #65717a;
-    --paper: #f7f6f1;
-    --white: #fffefa;
-    --line: #d9d9d2;
-    --gold: #e4a62a;
-    --gold-soft: #f4d99b;
+    --ink: #30363B;
+    --muted: #74797C;
+    --paper: #FBFAF6;
+    --white: #FFFEFA;
+    --line: #D8DAD5;
+    --gold: #E9AD27;
+    --gold-soft: #F5D58B;
 
     --max: 1180px;
 }
