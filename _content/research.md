@@ -3,4 +3,4 @@ section_number: "02 / Research"
 heading: ""
 ---
 
-Below is a selection of the broad research themes of my work.
+My current research has three main themes.

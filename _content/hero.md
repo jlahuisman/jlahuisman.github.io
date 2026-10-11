@@ -1,6 +1,6 @@
 ---
 title: John L.A. Huisman
-eyebrow: Research · Department of Linguistics and Philology · Uppsala University
+eyebrow: Researcher · Dept. of Linguistics and Philology · Uppsala University
 profile_image: ""
 visual_label: PROFILE IMAGE
 button_text: Explore research →
