@@ -8,7 +8,7 @@ permalink: /blog/:title/
 
 collections:
   content:
-    output: false
+    output: true
 
   publications:
     output: false
