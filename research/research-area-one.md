@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research Area One
-permalink: /research/area-one/
+title: Body part semantics
+permalink: /research/research-area-one/
 ---
 
 <main class="page"><p class="section-kicker">02 / Research</p><h1>Research Area
