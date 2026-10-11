@@ -1,10 +1,6 @@
 ---
-section_number: "01 / About"
+section_number: "01 / About me"
 heading: ""
 ---
 
-Placeholder biography. Add your academic background, current role, affiliations, and a
-concise overview of your expertise.
-
-Placeholder for additional context about your work, collaborations, intellectual
-interests, or professional perspective.
+Research Fellow at Uppsala University, Royal Swedish Academy of Letters, History and Antiquities (KVHAA).

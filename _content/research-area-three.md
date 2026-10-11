@@ -1,8 +1,8 @@
 ---
 number: "03"
-title: Research Area Three
-description: Placeholder description of this research area.
-url: /research/area-three/
+title: the Japonic languages
+description: Primary area of language expertise, covering dialectology, historical linguistics, and semantic typology.
+url: /research-area-three/
 ---
 
 

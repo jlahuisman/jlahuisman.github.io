@@ -1,6 +1,6 @@
 ---
-section_number: "05 / Blog"
-heading: Recent notes.
+section_number: "04 / Blog"
+heading: Research notes.
 ---
 
 

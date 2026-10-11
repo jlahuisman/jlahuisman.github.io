@@ -1,6 +1,6 @@
 ---
 section_number: "02 / Research"
-heading: Questions, methods, directions.
+heading: ""
 ---
 
-Placeholder for a concise overview of your research programme.
+Below is a selection of the broad research themes of my work.

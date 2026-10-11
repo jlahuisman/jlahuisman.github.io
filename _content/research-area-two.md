@@ -1,8 +1,8 @@
 ---
 number: "02"
-title: Research Area Two
-description: Placeholder description of this research area.
-url: /research/area-two/
+title: Language of Perception
+description: Cross-linguistic variation in how speakers of different languages encode sensory experiences. 
+url: /research-area-two/
 ---
 
 
