@@ -216,30 +216,6 @@ nav a:hover,
         );
 }
 
-.profile-visual::after {
-    content: "";
-
-    position: absolute;
-    inset: 12% 8%;
-
-    border: 1px solid rgba(255, 255, 255, 0.6);
-
-    transform: skewX(-7deg);
-    z-index: 2;
-}
-
-.rail-line {
-    height: 4px;
-
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 19%;
-
-    background: var(--gold);
-    z-index: 3;
-}
-
 .visual-label {
     position: absolute;
     right: 20px;
