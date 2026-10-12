@@ -147,11 +147,6 @@ title: Academic
 
             {% for card in research_cards %}
 
-                <a
-                    class="research-card"
-                    href="{{ card.url | relative_url }}"
-                >
-
                     <span class="number">
                         {{ card.number }}
                     </span>
@@ -163,8 +158,6 @@ title: Academic
                     <p>
                         {{ card.description }}
                     </p>
-
-                </a>
 
             {% endfor %}
 
