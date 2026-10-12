@@ -202,9 +202,7 @@ title: Academic
 
                 {% for pub in selected_pubs limit: 3 %}
 
-                    <a
-                        href="{{ pub.url | relative_url }}"
-                    >
+                    <div class="publication-item">
 
                         <span class="pub-year">
                             {{ pub.year }}
@@ -230,7 +228,7 @@ title: Academic
                             ↗
                         </span>
 
-                    </a>
+                    </div>
 
                 {% endfor %}
 
