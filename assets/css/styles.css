@@ -332,10 +332,6 @@ nav a:hover,
     border-top: 1px solid var(--ink);
 }
 
-.research-card:hover h3 {
-    color: var(--gold);
-}
-
 .number {
     color: var(--gold);
 
