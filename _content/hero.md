@@ -7,4 +7,4 @@ button_text: Explore research →
 button_url: "#research"
 ---
 
-I am a linguist broadly interested in the patterns and process of linguistic diversity and language change.
+I am a linguist broadly investigating the patterns and process of linguistic diversity and language change, with a particular interest in semantics.

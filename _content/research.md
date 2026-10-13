@@ -3,4 +3,4 @@ section_number: "02 / Research"
 heading: ""
 ---
 
-My current research has three main themes.
+My research is largerly quantitative and data-rich, building on primary language data gathered through in-person and online stimulus-based elicitation tasks. Below are three current focus araes. 
